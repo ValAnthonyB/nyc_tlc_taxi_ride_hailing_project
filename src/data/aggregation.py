@@ -62,7 +62,7 @@ def process_taxi_data(year: int, month: str, ride_type: str, url: str, max_retri
                     url, 
                     columns=["tpep_pickup_datetime", "PULocationID", "DOLocationID", "payment_type", "total_amount"]
                 )
-                df = df.with_columns([pl.col(col).cast(dtype) for col, dtype in schema_overrides.items()])
+                df = df.with_columns([pl.col(col).cast(dtype) for col, dtype in schema_overrides.items()]) # modifying the data types
                 df = df.with_columns(pl.lit(ride_type).alias("ride_type")) # Ride type column = Yellow Taxi
                 df = df.filter(pl.col("payment_type") != 6) # Filter out Voided transactions
                 df = df.drop("payment_type")
@@ -121,6 +121,8 @@ def process_taxi_data(year: int, month: str, ride_type: str, url: str, max_retri
                 df = df.drop(["hvfhs_license_num", "base_passenger_fare", "tolls", "bcf", 
                               "sales_tax", "congestion_surcharge", "airport_fee", "tips"])
 
+                # Change the data types
+                df = df.with_columns([pl.col(col).cast(dtype) for col, dtype in schema_overrides.items()]) # modifying the data types
                 break  # Exit loop if successful
 
         # In case of error, try again

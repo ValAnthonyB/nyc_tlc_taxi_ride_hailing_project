@@ -43,7 +43,7 @@ from src.data.html_scrape import get_html, link_extraction
 from src.data.aggregation import process_taxi_data, combine_all
 
 #--------- Main Part ---------#
-def main(year: int, target_months: List[str], links_dict: Dict[str, str],):
+def main(year: int, target_months: List[str], links_dict: Dict[str, str]):
     logging.info("Creating the monthly_aggregates and concatenated directories to store the aggregated and concatenated data, respecitvely.")
     os.makedirs("../data/monthly_aggregates", exist_ok=True)
     os.makedirs(f"../data/monthly_aggregates/{year}", exist_ok=True)
@@ -64,11 +64,12 @@ def main(year: int, target_months: List[str], links_dict: Dict[str, str],):
                 logging.info(f"Aggregating {ride_type}. Data from {url}.")
                 process_taxi_data(year, month, ride_type, url)
                 logging.info(f"{ride_type} done.")
-                logging.info(f"Waiting 120s before processing the next ride type")
-                time.sleep(120)
+                logging.info(f"Waiting 60s before processing the next ride type")
+                time.sleep(60)
                 
     # Concatenate all dataframes into a single file
     os.makedirs(f"../data/concatenated/{year}", exist_ok=True) # Create the directory for the month
+    logging.info(f"Concatenating all {year} files.")
     combine_all(year)
 
 if __name__ == "__main__":
@@ -85,12 +86,12 @@ if __name__ == "__main__":
     logging.info(f"Extracting {year} data.")
 
     # Months to consider
-    target_months  = [#'January', 
-                      #'February', 
-                      'March', 
-                        #'April', 'May', 'June', 
-                      # 'July', 'August', 'September', 'October', 'November', 'December'
-                     ]
+    target_months  = [
+        'January', 'February', 'March', 
+        'April', 'May', 'June', 
+        'July', 'August', 'September', 
+        'October', 'November', 'December'
+    ]
 
     # Run the scraping and aggregations
     main(year, target_months, links_dict)

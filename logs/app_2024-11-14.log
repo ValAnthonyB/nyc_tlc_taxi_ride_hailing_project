@@ -1,0 +1,8 @@
+2024-11-14 22:23:05,327 - INFO - Extracting HTML.
+2024-11-14 22:23:07,456 - INFO - Extracting links from the website.
+2024-11-14 22:23:07,487 - INFO - Extracting 2023 data.
+2024-11-14 22:23:07,487 - INFO - Creating the monthly_aggregates and concatenated directories to store the aggregated and concatenated data, respecitvely.
+2024-11-14 22:23:07,487 - INFO - Processing January 2023 data.
+2024-11-14 22:23:07,487 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet.
+2024-11-14 22:23:14,938 - INFO - Yellow Taxi Trip Records done.
+2024-11-14 22:23:14,947 - INFO - Waiting 60s before processing the next ride type
