@@ -11,7 +11,7 @@ def process_taxi_data(year: int, month: str, ride_type: str, url: str, max_retri
     # Read the location mapping
     try:
         df_loc_dict = pl.read_csv(
-            "data dictionary/taxi_zone_lookup.csv", 
+            "../data/data dictionary/taxi_zone_lookup.csv", 
             columns=["LocationID", "Borough"], 
             schema_overrides={'LocationID': pl.Int32, 'Borough': pl.Utf8}
         )
