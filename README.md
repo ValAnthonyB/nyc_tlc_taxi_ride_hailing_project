@@ -11,7 +11,11 @@ Key objectives include:
 
 ## Data Source
 
-The data is sourced from the NYC Taxi & Limousine Commission's Trip Record Data ([NYC Taxi & Limousine Commission's Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)), which provides hourly transactions of NYC taxi and ride-hailing services. 
+The data is sourced from the NYC Taxi & Limousine Commission's Trip Record Data ([NYC Taxi & Limousine Commission's Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)), which provides hourly transactions of NYC taxi and ride-hailing services. To scrape data for a particular year, just use
+```python
+python scraper <input year here>
+```
+
 
 ## Time Series Models
 
