@@ -1,0 +1,1068 @@
+2024-11-25 05:22:36,413 - INFO - Tuning for Manhattan - Prophet Model
+2024-11-25 05:22:36,574 - INFO - changepont_prior_scale: 0.08323406140707534, seasonality_prior_scale: 8.630487668728163, holidays_prior_scale: 7.3600501745467675, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 05:22:39,665 - INFO - Chain [1] start processing
+2024-11-25 05:23:34,415 - INFO - Chain [1] done processing
+2024-11-25 05:23:34,843 - INFO - {'mae': 7503.862515063831, 'mape': 69.0015128668655, 'rmse': 9977.238140642648, 'r2': -0.014300499250290422}
+2024-11-25 05:23:34,850 - INFO - changepont_prior_scale: 0.053925128923289385, seasonality_prior_scale: 9.257101284974244, holidays_prior_scale: 7.696301648998574, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 05:23:37,901 - INFO - Chain [1] start processing
+2024-11-25 05:24:32,702 - INFO - Chain [1] done processing
+2024-11-25 05:24:33,141 - INFO - {'mae': 7525.213736504221, 'mape': 68.56934262749434, 'rmse': 9946.407724608698, 'r2': -0.008041654750195582}
+2024-11-25 05:24:33,147 - INFO - changepont_prior_scale: 0.08891624197967204, seasonality_prior_scale: 3.92735637058179, holidays_prior_scale: 3.722606789074782, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:24:38,252 - INFO - Chain [1] start processing
+2024-11-25 05:26:34,020 - INFO - Chain [1] done processing
+2024-11-25 05:26:34,467 - INFO - {'mae': 3533.806722384256, 'mape': 20.08428281276313, 'rmse': 4646.243387043477, 'r2': 0.7800368782145256}
+2024-11-25 05:26:34,474 - INFO - changepont_prior_scale: 0.026385022950273965, seasonality_prior_scale: 5.408957889270785, holidays_prior_scale: 3.0104503231218946, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:26:38,101 - INFO - Chain [1] start processing
+2024-11-25 05:27:48,585 - INFO - Chain [1] done processing
+2024-11-25 05:27:49,015 - INFO - {'mae': 4633.705074089257, 'mape': 25.646761978512156, 'rmse': 5633.594470844511, 'r2': 0.6766170446236222}
+2024-11-25 05:27:49,021 - INFO - changepont_prior_scale: 0.03964306741352141, seasonality_prior_scale: 9.04626124175955, holidays_prior_scale: 4.384146719291783, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:27:54,209 - INFO - Chain [1] start processing
+2024-11-25 05:29:47,647 - INFO - Chain [1] done processing
+2024-11-25 05:29:48,101 - INFO - {'mae': 3574.885621300643, 'mape': 20.453457511621725, 'rmse': 4669.926187094295, 'r2': 0.7777887742261723}
+2024-11-25 05:29:48,107 - INFO - changepont_prior_scale: 0.019374194125938732, seasonality_prior_scale: 9.38007388502165, holidays_prior_scale: 4.898065390410747, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 05:29:52,876 - INFO - Chain [1] start processing
+2024-11-25 05:31:07,168 - INFO - Chain [1] done processing
+2024-11-25 05:31:07,611 - INFO - {'mae': 4029.1137242297095, 'mape': 23.829355558210626, 'rmse': 5301.138930400175, 'r2': 0.7136584739631768}
+2024-11-25 05:31:07,617 - INFO - changepont_prior_scale: 0.04196044312752652, seasonality_prior_scale: 9.181571596188444, holidays_prior_scale: 5.281601494062148, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 05:31:12,262 - INFO - Chain [1] start processing
+2024-11-25 05:32:44,138 - INFO - Chain [1] done processing
+2024-11-25 05:32:44,582 - INFO - {'mae': 7622.483266526783, 'mape': 64.8467624602085, 'rmse': 9589.412077618856, 'r2': 0.06302085212328701}
+2024-11-25 05:32:44,588 - INFO - changepont_prior_scale: 0.014730395721213284, seasonality_prior_scale: 7.856012830805921, holidays_prior_scale: 9.939427039519273, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:32:49,669 - INFO - Chain [1] start processing
+2024-11-25 05:34:00,109 - INFO - Chain [1] done processing
+2024-11-25 05:34:00,563 - INFO - {'mae': 3690.6241794855405, 'mape': 21.371013747090238, 'rmse': 4751.283106584105, 'r2': 0.7699788447788385}
+2024-11-25 05:34:00,568 - INFO - changepont_prior_scale: 0.05828633286479609, seasonality_prior_scale: 4.3949994430765935, holidays_prior_scale: 8.378919612925346, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:34:04,214 - INFO - Chain [1] start processing
+2024-11-25 05:35:23,011 - INFO - Chain [1] done processing
+2024-11-25 05:35:23,451 - INFO - {'mae': 4695.321937260098, 'mape': 25.957882167993706, 'rmse': 5697.264735420997, 'r2': 0.6692660609116454}
+2024-11-25 05:35:23,458 - INFO - changepont_prior_scale: 0.06645108652820696, seasonality_prior_scale: 9.401373212206344, holidays_prior_scale: 7.587405993468313, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 05:35:27,593 - INFO - Chain [1] start processing
+2024-11-25 05:36:55,402 - INFO - Chain [1] done processing
+2024-11-25 05:36:55,839 - INFO - {'mae': 7805.483738640246, 'mape': 66.55338741964539, 'rmse': 9887.617627212443, 'r2': 0.003839564396550754}
+2024-11-25 05:36:55,857 - INFO - changepont_prior_scale: 0.09818137873978344, seasonality_prior_scale: 1.2561332626476207, holidays_prior_scale: 1.0077640975831517, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 05:37:00,609 - INFO - Chain [1] start processing
+2024-11-25 05:38:29,341 - INFO - Chain [1] done processing
+2024-11-25 05:38:29,791 - INFO - {'mae': 4028.090384510924, 'mape': 22.084550849381877, 'rmse': 5370.189228958674, 'r2': 0.7061503748199518}
+2024-11-25 05:38:29,811 - INFO - changepont_prior_scale: 0.03850034781030143, seasonality_prior_scale: 3.144745323818304, holidays_prior_scale: 3.5062252820108477, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:38:34,894 - INFO - Chain [1] start processing
+2024-11-25 05:40:46,598 - INFO - Chain [1] done processing
+2024-11-25 05:40:47,129 - INFO - {'mae': 3562.938127921778, 'mape': 20.352294256442466, 'rmse': 4662.6029145822595, 'r2': 0.7784851609948046}
+2024-11-25 05:40:47,150 - INFO - changepont_prior_scale: 0.003422964891743631, seasonality_prior_scale: 2.9332549024402113, holidays_prior_scale: 2.950589198715669, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:40:52,228 - INFO - Chain [1] start processing
+2024-11-25 05:41:35,408 - INFO - Chain [1] done processing
+2024-11-25 05:41:35,859 - INFO - {'mae': 3815.819753757741, 'mape': 22.257239150251877, 'rmse': 4851.059604431881, 'r2': 0.7602165611583045}
+2024-11-25 05:41:35,879 - INFO - changepont_prior_scale: 0.0751588321914572, seasonality_prior_scale: 3.205970201821844, holidays_prior_scale: 2.5852324009302086, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:41:41,061 - INFO - Chain [1] start processing
+2024-11-25 05:43:09,153 - INFO - Chain [1] done processing
+2024-11-25 05:43:09,604 - INFO - {'mae': 3548.040485884217, 'mape': 20.206656462929573, 'rmse': 4654.396609605454, 'r2': 0.7792642188106934}
+2024-11-25 05:43:09,625 - INFO - changepont_prior_scale: 0.07856004403090187, seasonality_prior_scale: 6.634010342536611, holidays_prior_scale: 1.315834294491617, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:43:14,814 - INFO - Chain [1] start processing
+2024-11-25 05:45:04,176 - INFO - Chain [1] done processing
+2024-11-25 05:45:04,636 - INFO - {'mae': 3541.3909168382493, 'mape': 20.150576680610786, 'rmse': 4650.470167140187, 'r2': 0.7796364865142871}
+2024-11-25 05:45:04,658 - INFO - changepont_prior_scale: 0.09540136403688754, seasonality_prior_scale: 6.665847896094493, holidays_prior_scale: 1.099251201693718, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 05:45:09,450 - INFO - Chain [1] start processing
+2024-11-25 05:46:29,721 - INFO - Chain [1] done processing
+2024-11-25 05:46:30,165 - INFO - {'mae': 3940.594850113446, 'mape': 22.625871799865678, 'rmse': 5241.741409044902, 'r2': 0.720039250898455}
+2024-11-25 05:46:30,185 - INFO - changepont_prior_scale: 0.08596696342940492, seasonality_prior_scale: 6.5528862798043885, holidays_prior_scale: 2.046436975514194, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:46:35,400 - INFO - Chain [1] start processing
+2024-11-25 05:48:01,508 - INFO - Chain [1] done processing
+2024-11-25 05:48:01,964 - INFO - {'mae': 3535.0954807632033, 'mape': 20.10458212747066, 'rmse': 4646.420732776443, 'r2': 0.7800200860397298}
+2024-11-25 05:48:01,984 - INFO - changepont_prior_scale: 0.08514407296000497, seasonality_prior_scale: 4.724557707662635, holidays_prior_scale: 4.028149254335041, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:48:07,112 - INFO - Chain [1] start processing
+2024-11-25 05:49:57,534 - INFO - Chain [1] done processing
+2024-11-25 05:49:57,984 - INFO - {'mae': 3547.1696295761185, 'mape': 20.203198382398163, 'rmse': 4653.645181720253, 'r2': 0.7793354863222438}
+2024-11-25 05:49:58,006 - INFO - changepont_prior_scale: 0.06736501329776229, seasonality_prior_scale: 6.956930790780653, holidays_prior_scale: 6.151182470719514, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 05:50:00,543 - INFO - Chain [1] start processing
+2024-11-25 05:50:48,702 - INFO - Chain [1] done processing
+2024-11-25 05:50:49,125 - INFO - {'mae': 7766.200443839059, 'mape': 71.548673440005, 'rmse': 10248.272798975839, 'r2': -0.07015655871801796}
+2024-11-25 05:50:49,148 - INFO - changepont_prior_scale: 0.0897399909287312, seasonality_prior_scale: 4.103126399530074, holidays_prior_scale: 2.1026266597707335, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:50:54,370 - INFO - Chain [1] start processing
+2024-11-25 05:52:30,960 - INFO - Chain [1] done processing
+2024-11-25 05:52:31,416 - INFO - {'mae': 3539.6765901759, 'mape': 20.134693327826486, 'rmse': 4649.548729598715, 'r2': 0.779723802889045}
+2024-11-25 05:52:31,438 - INFO - changepont_prior_scale: 0.06978978318980823, seasonality_prior_scale: 1.3729695172087926, holidays_prior_scale: 6.282526646049634, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:52:36,655 - INFO - Chain [1] start processing
+2024-11-25 05:54:38,150 - INFO - Chain [1] done processing
+2024-11-25 05:54:38,600 - INFO - {'mae': 3548.724651479887, 'mape': 20.209731799327194, 'rmse': 4655.0353175263035, 'r2': 0.7792036329271971}
+2024-11-25 05:54:38,619 - INFO - changepont_prior_scale: 0.09036470624997571, seasonality_prior_scale: 4.377037763661999, holidays_prior_scale: 2.175855513257676, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:54:43,695 - INFO - Chain [1] start processing
+2024-11-25 05:56:22,186 - INFO - Chain [1] done processing
+2024-11-25 05:56:22,639 - INFO - {'mae': 3533.129648696516, 'mape': 20.08009698144596, 'rmse': 4645.713435402042, 'r2': 0.7800870534463181}
+2024-11-25 05:56:22,662 - INFO - changepont_prior_scale: 0.09903875779508678, seasonality_prior_scale: 5.537710306528139, holidays_prior_scale: 2.033450198693661, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:56:27,820 - INFO - Chain [1] start processing
+2024-11-25 05:58:13,769 - INFO - Chain [1] done processing
+2024-11-25 05:58:14,215 - INFO - {'mae': 3536.3570767602614, 'mape': 20.1172379483126, 'rmse': 4646.907289344437, 'r2': 0.779974012607228}
+2024-11-25 05:58:14,234 - INFO - changepont_prior_scale: 0.08951714172018096, seasonality_prior_scale: 5.4234277477495745, holidays_prior_scale: 4.0824941805169885, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:58:19,405 - INFO - Chain [1] start processing
+2024-11-25 05:59:46,938 - INFO - Chain [1] done processing
+2024-11-25 05:59:47,383 - INFO - {'mae': 3531.815796344534, 'mape': 20.069687493356707, 'rmse': 4644.925922320167, 'r2': 0.7801616037370824}
+2024-11-25 05:59:47,405 - INFO - changepont_prior_scale: 0.093543983770683, seasonality_prior_scale: 2.290106328905742, holidays_prior_scale: 3.9419557403986425, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 05:59:52,589 - INFO - Chain [1] start processing
+2024-11-25 06:01:30,334 - INFO - Chain [1] done processing
+2024-11-25 06:01:30,780 - INFO - {'mae': 3530.015340871193, 'mape': 20.06415357639627, 'rmse': 4643.286136773187, 'r2': 0.7803167942395246}
+2024-11-25 06:01:30,802 - INFO - changepont_prior_scale: 0.07590375294156487, seasonality_prior_scale: 2.1531401727931643, holidays_prior_scale: 4.776482341823467, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:01:36,011 - INFO - Chain [1] start processing
+2024-11-25 06:03:18,396 - INFO - Chain [1] done processing
+2024-11-25 06:03:18,846 - INFO - {'mae': 3535.890576203296, 'mape': 20.11219709827756, 'rmse': 4646.729926453663, 'r2': 0.7799908081652187}
+2024-11-25 06:03:18,867 - INFO - changepont_prior_scale: 0.0930199124679656, seasonality_prior_scale: 5.7081190645311155, holidays_prior_scale: 6.030174530243337, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 06:03:23,516 - INFO - Chain [1] start processing
+2024-11-25 06:05:03,002 - INFO - Chain [1] done processing
+2024-11-25 06:05:03,454 - INFO - {'mae': 3940.0437276030975, 'mape': 22.590593834467292, 'rmse': 5241.9839850288645, 'r2': 0.7200133383933213}
+2024-11-25 06:05:03,474 - INFO - changepont_prior_scale: 0.06013131880576716, seasonality_prior_scale: 2.5071519388496895, holidays_prior_scale: 3.3798172151087824, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 06:05:06,493 - INFO - Chain [1] start processing
+2024-11-25 06:05:56,941 - INFO - Chain [1] done processing
+2024-11-25 06:05:57,363 - INFO - {'mae': 7526.4196343923495, 'mape': 68.77900042830582, 'rmse': 9969.704633658097, 'r2': -0.012769343041580061}
+2024-11-25 06:05:57,384 - INFO - changepont_prior_scale: 0.07979283815229785, seasonality_prior_scale: 1.8881317151902723, holidays_prior_scale: 4.131053059946369, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:06:02,542 - INFO - Chain [1] start processing
+2024-11-25 06:07:35,508 - INFO - Chain [1] done processing
+2024-11-25 06:07:35,960 - INFO - {'mae': 3536.485085398682, 'mape': 20.111299782997367, 'rmse': 4647.49213962842, 'r2': 0.7799186250769672}
+2024-11-25 06:07:35,982 - INFO - changepont_prior_scale: 0.0841528042082963, seasonality_prior_scale: 4.84483427325287, holidays_prior_scale: 2.655013010503231, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 06:07:39,005 - INFO - Chain [1] start processing
+2024-11-25 06:08:43,009 - INFO - Chain [1] done processing
+2024-11-25 06:08:43,430 - INFO - {'mae': 7504.228082219276, 'mape': 69.039089261508, 'rmse': 9981.189247924724, 'r2': -0.015104008911660083}
+2024-11-25 06:08:43,451 - INFO - changepont_prior_scale: 0.07195760351804818, seasonality_prior_scale: 7.588578521624371, holidays_prior_scale: 5.422167961655323, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:08:48,674 - INFO - Chain [1] start processing
+2024-11-25 06:10:26,936 - INFO - Chain [1] done processing
+2024-11-25 06:10:27,388 - INFO - {'mae': 3552.165770268976, 'mape': 20.24241073747234, 'rmse': 4656.893635660921, 'r2': 0.7790273112608354}
+2024-11-25 06:10:27,411 - INFO - changepont_prior_scale: 0.08923390219092477, seasonality_prior_scale: 3.82184680050256, holidays_prior_scale: 3.694650809199503, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:10:32,490 - INFO - Chain [1] start processing
+2024-11-25 06:12:33,767 - INFO - Chain [1] done processing
+2024-11-25 06:12:34,215 - INFO - {'mae': 3538.1623534749365, 'mape': 20.122176813050306, 'rmse': 4648.613075314217, 'r2': 0.7798124487521287}
+2024-11-25 06:12:34,237 - INFO - changepont_prior_scale: 0.09264638305141315, seasonality_prior_scale: 3.53524975711102, holidays_prior_scale: 4.405493260830025, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:12:39,416 - INFO - Chain [1] start processing
+2024-11-25 06:14:38,737 - INFO - Chain [1] done processing
+2024-11-25 06:14:39,182 - INFO - {'mae': 3547.096904316315, 'mape': 20.191375609362908, 'rmse': 4654.304264910893, 'r2': 0.7792729776586352}
+2024-11-25 06:14:39,205 - INFO - changepont_prior_scale: 0.09914413338834516, seasonality_prior_scale: 4.8660692098439995, holidays_prior_scale: 3.5188169785455994, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:14:44,381 - INFO - Chain [1] start processing
+2024-11-25 06:17:04,774 - INFO - Chain [1] done processing
+2024-11-25 06:17:05,227 - INFO - {'mae': 3539.8482410356505, 'mape': 20.121729897447864, 'rmse': 4650.566516912767, 'r2': 0.7796273553109501}
+2024-11-25 06:17:05,249 - INFO - changepont_prior_scale: 0.08096270578383426, seasonality_prior_scale: 5.720434488650843, holidays_prior_scale: 1.665818532238756, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:17:08,901 - INFO - Chain [1] start processing
+2024-11-25 06:18:14,940 - INFO - Chain [1] done processing
+2024-11-25 06:18:15,370 - INFO - {'mae': 4723.578889374971, 'mape': 26.095100861695318, 'rmse': 5726.261985239733, 'r2': 0.6658908340029492}
+2024-11-25 06:18:15,390 - INFO - changepont_prior_scale: 0.051417724944423086, seasonality_prior_scale: 2.6542584291090585, holidays_prior_scale: 2.8081329775477353, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:18:20,580 - INFO - Chain [1] start processing
+2024-11-25 06:20:04,165 - INFO - Chain [1] done processing
+2024-11-25 06:20:04,620 - INFO - {'mae': 3558.2164838240597, 'mape': 20.30196453250869, 'rmse': 4660.156493724709, 'r2': 0.778717553228381}
+2024-11-25 06:20:04,642 - INFO - changepont_prior_scale: 0.0888990100118055, seasonality_prior_scale: 3.5975602921753467, holidays_prior_scale: 4.745223763823212, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 06:20:09,150 - INFO - Chain [1] start processing
+2024-11-25 06:21:20,602 - INFO - Chain [1] done processing
+2024-11-25 06:21:21,050 - INFO - {'mae': 7683.296184370517, 'mape': 64.29681668340912, 'rmse': 9554.663376268261, 'r2': 0.06979912328462246}
+2024-11-25 06:21:21,073 - INFO - changepont_prior_scale: 0.09321173245865597, seasonality_prior_scale: 5.243355993879083, holidays_prior_scale: 6.952256516816286, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:21:26,227 - INFO - Chain [1] start processing
+2024-11-25 06:23:07,107 - INFO - Chain [1] done processing
+2024-11-25 06:23:07,554 - INFO - {'mae': 3539.3871792015275, 'mape': 20.135399640326877, 'rmse': 4649.21488588845, 'r2': 0.7797554339944046}
+2024-11-25 06:23:07,576 - INFO - changepont_prior_scale: 0.08361256969039563, seasonality_prior_scale: 6.175430396496029, holidays_prior_scale: 5.179241703672693, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 06:23:10,730 - INFO - Chain [1] start processing
+2024-11-25 06:24:15,227 - INFO - Chain [1] done processing
+2024-11-25 06:24:15,650 - INFO - {'mae': 4923.163153899929, 'mape': 28.585009128649187, 'rmse': 6115.553593402207, 'r2': 0.6189188074383123}
+2024-11-25 06:24:15,670 - INFO - changepont_prior_scale: 0.06205433480373969, seasonality_prior_scale: 4.252291013822095, holidays_prior_scale: 4.052542178524375, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 06:24:20,275 - INFO - Chain [1] start processing
+2024-11-25 06:25:34,890 - INFO - Chain [1] done processing
+2024-11-25 06:25:35,330 - INFO - {'mae': 7654.112715588284, 'mape': 64.54625892916518, 'rmse': 9569.297277707463, 'r2': 0.0669475539880311}
+2024-11-25 06:25:35,351 - INFO - changepont_prior_scale: 0.04640625726229988, seasonality_prior_scale: 1.7778021287517953, holidays_prior_scale: 3.094453054346661, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:25:40,550 - INFO - Chain [1] start processing
+2024-11-25 06:27:36,160 - INFO - Chain [1] done processing
+2024-11-25 06:27:36,604 - INFO - {'mae': 3561.4221876082443, 'mape': 20.32561956516423, 'rmse': 4662.351510054196, 'r2': 0.7785090482239765}
+2024-11-25 06:27:36,626 - INFO - changepont_prior_scale: 0.08733446477087468, seasonality_prior_scale: 8.082156353505482, holidays_prior_scale: 2.4007297402920202, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:27:41,686 - INFO - Chain [1] start processing
+2024-11-25 06:29:24,158 - INFO - Chain [1] done processing
+2024-11-25 06:29:24,675 - INFO - {'mae': 3534.618205630162, 'mape': 20.100357931572134, 'rmse': 4646.054871801507, 'r2': 0.7800547272837418}
+2024-11-25 06:29:24,695 - INFO - changepont_prior_scale: 0.08780073337564608, seasonality_prior_scale: 7.977167449598372, holidays_prior_scale: 2.2266644783203624, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:29:29,751 - INFO - Chain [1] start processing
+2024-11-25 06:31:13,367 - INFO - Chain [1] done processing
+2024-11-25 06:31:13,818 - INFO - {'mae': 3530.56346308827, 'mape': 20.0696523703705, 'rmse': 4643.526074145587, 'r2': 0.7802940898136189}
+2024-11-25 06:31:13,840 - INFO - changepont_prior_scale: 0.030454396840741495, seasonality_prior_scale: 8.365412748442505, holidays_prior_scale: 2.347021722703853, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:31:19,037 - INFO - Chain [1] start processing
+2024-11-25 06:33:01,767 - INFO - Chain [1] done processing
+2024-11-25 06:33:02,221 - INFO - {'mae': 3587.919392144262, 'mape': 20.573847574582413, 'rmse': 4677.566958204963, 'r2': 0.7770610307714538}
+2024-11-25 06:33:02,244 - INFO - changepont_prior_scale: 0.07437195207499507, seasonality_prior_scale: 8.379715145332003, holidays_prior_scale: 1.7676420041817602, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:33:07,435 - INFO - Chain [1] start processing
+2024-11-25 06:34:39,636 - INFO - Chain [1] done processing
+2024-11-25 06:34:40,087 - INFO - {'mae': 3530.4711741003694, 'mape': 20.045736819514612, 'rmse': 4644.931009803574, 'r2': 0.780161122168668}
+2024-11-25 06:34:40,110 - INFO - changepont_prior_scale: 0.07570043026296622, seasonality_prior_scale: 9.689779999253652, holidays_prior_scale: 1.6125776502240443, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:34:45,317 - INFO - Chain [1] start processing
+2024-11-25 06:36:51,694 - INFO - Chain [1] done processing
+2024-11-25 06:36:52,149 - INFO - {'mae': 3550.3145819481047, 'mape': 20.213703462375857, 'rmse': 4656.585190577676, 'r2': 0.779056582138599}
+2024-11-25 06:36:52,172 - INFO - changepont_prior_scale: 0.09353153310710191, seasonality_prior_scale: 7.503333387676898, holidays_prior_scale: 1.6214231681307518, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:36:57,264 - INFO - Chain [1] start processing
+2024-11-25 06:38:27,988 - INFO - Chain [1] done processing
+2024-11-25 06:38:28,433 - INFO - {'mae': 3536.7231060365034, 'mape': 20.119506828128987, 'rmse': 4647.188410059596, 'r2': 0.7799473902840168}
+2024-11-25 06:38:28,454 - INFO - changepont_prior_scale: 0.08207676488142783, seasonality_prior_scale: 8.49560284787639, holidays_prior_scale: 3.1546070096601104, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 06:38:33,184 - INFO - Chain [1] start processing
+2024-11-25 06:40:04,543 - INFO - Chain [1] done processing
+2024-11-25 06:40:04,996 - INFO - {'mae': 4019.358441148389, 'mape': 22.015738567783902, 'rmse': 5361.233122447633, 'r2': 0.7071296900308048}
+2024-11-25 06:40:05,023 - INFO - changepont_prior_scale: 0.09680132672791505, seasonality_prior_scale: 7.423499704051079, holidays_prior_scale: 9.263253480393539, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:40:10,265 - INFO - Chain [1] start processing
+2024-11-25 06:41:52,399 - INFO - Chain [1] done processing
+2024-11-25 06:41:52,844 - INFO - {'mae': 3531.153413933029, 'mape': 20.07063848696066, 'rmse': 4644.1300993441, 'r2': 0.7802369278487021}
+2024-11-25 06:41:52,867 - INFO - changepont_prior_scale: 0.09636559613982018, seasonality_prior_scale: 9.043030052807584, holidays_prior_scale: 7.244761669176434, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:41:58,070 - INFO - Chain [1] start processing
+2024-11-25 06:43:43,835 - INFO - Chain [1] done processing
+2024-11-25 06:43:44,284 - INFO - {'mae': 3530.114470112317, 'mape': 20.060389005853402, 'rmse': 4643.546870801735, 'r2': 0.7802921218442669}
+2024-11-25 06:43:44,308 - INFO - changepont_prior_scale: 0.09640044303789867, seasonality_prior_scale: 9.097104705277008, holidays_prior_scale: 8.933936174949002, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:43:47,813 - INFO - Chain [1] start processing
+2024-11-25 06:45:21,789 - INFO - Chain [1] done processing
+2024-11-25 06:45:22,310 - INFO - {'mae': 4647.9527331081645, 'mape': 28.27904500553022, 'rmse': 5586.970651724502, 'r2': 0.6819475518768341}
+2024-11-25 06:45:22,332 - INFO - changepont_prior_scale: 0.09887956068859806, seasonality_prior_scale: 9.973364228494757, holidays_prior_scale: 9.690045982230117, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:45:27,397 - INFO - Chain [1] start processing
+2024-11-25 06:47:15,451 - INFO - Chain [1] done processing
+2024-11-25 06:47:15,900 - INFO - {'mae': 3528.130256672686, 'mape': 20.044018338178667, 'rmse': 4642.403516040508, 'r2': 0.7804003034258328}
+2024-11-25 06:47:15,923 - INFO - changepont_prior_scale: 0.0967337679290177, seasonality_prior_scale: 9.956783988164581, holidays_prior_scale: 9.17873477444393, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:47:21,095 - INFO - Chain [1] start processing
+2024-11-25 06:48:52,358 - INFO - Chain [1] done processing
+2024-11-25 06:48:52,801 - INFO - {'mae': 3546.7329409825134, 'mape': 20.19170532121182, 'rmse': 4653.864254373858, 'r2': 0.779314710050512}
+2024-11-25 06:48:52,825 - INFO - changepont_prior_scale: 0.09930552566212192, seasonality_prior_scale: 8.874234115747322, holidays_prior_scale: 9.905358892092345, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:48:57,993 - INFO - Chain [1] start processing
+2024-11-25 06:50:39,818 - INFO - Chain [1] done processing
+2024-11-25 06:50:40,263 - INFO - {'mae': 3535.3297089256826, 'mape': 20.108241014057484, 'rmse': 4646.395246922673, 'r2': 0.7800224992351189}
+2024-11-25 06:50:40,287 - INFO - changepont_prior_scale: 0.0940361511913617, seasonality_prior_scale: 9.513858062963356, holidays_prior_scale: 8.202637155214102, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:50:45,458 - INFO - Chain [1] start processing
+2024-11-25 06:52:23,057 - INFO - Chain [1] done processing
+2024-11-25 06:52:23,503 - INFO - {'mae': 3541.503358294259, 'mape': 20.151850874509332, 'rmse': 4650.550609841647, 'r2': 0.779628862859471}
+2024-11-25 06:52:23,525 - INFO - changepont_prior_scale: 0.08623317641216566, seasonality_prior_scale: 7.3118317493069895, holidays_prior_scale: 9.391413583102501, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:52:28,578 - INFO - Chain [1] start processing
+2024-11-25 06:54:05,793 - INFO - Chain [1] done processing
+2024-11-25 06:54:06,316 - INFO - {'mae': 3533.295431416924, 'mape': 20.08784069756331, 'rmse': 4645.403429749613, 'r2': 0.780116401783364}
+2024-11-25 06:54:06,338 - INFO - changepont_prior_scale: 0.09041916936448137, seasonality_prior_scale: 8.81380980353423, holidays_prior_scale: 8.376676179143796, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 06:54:10,932 - INFO - Chain [1] start processing
+2024-11-25 06:55:59,736 - INFO - Chain [1] done processing
+2024-11-25 06:56:00,178 - INFO - {'mae': 3940.8321443508817, 'mape': 22.597231015147056, 'rmse': 5242.5404033222485, 'r2': 0.7199538960260294}
+2024-11-25 06:56:00,202 - INFO - changepont_prior_scale: 0.09948401625327007, seasonality_prior_scale: 7.985517910216956, holidays_prior_scale: 7.057156193276092, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 06:56:04,767 - INFO - Chain [1] start processing
+2024-11-25 06:57:34,075 - INFO - Chain [1] done processing
+2024-11-25 06:57:34,516 - INFO - {'mae': 7687.769906862046, 'mape': 64.25989593151596, 'rmse': 9552.750179331244, 'r2': 0.07017160721659332}
+2024-11-25 06:57:34,539 - INFO - changepont_prior_scale: 0.09656940374826466, seasonality_prior_scale: 9.828857063383342, holidays_prior_scale: 8.042812477782238, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:57:39,702 - INFO - Chain [1] start processing
+2024-11-25 06:59:17,451 - INFO - Chain [1] done processing
+2024-11-25 06:59:17,892 - INFO - {'mae': 3813.736742949234, 'mape': 21.312108970782585, 'rmse': 4850.2251702432795, 'r2': 0.7602990447009907}
+2024-11-25 06:59:17,916 - INFO - changepont_prior_scale: 0.007519146159291876, seasonality_prior_scale: 9.183607169487107, holidays_prior_scale: 8.807186067032307, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 06:59:23,116 - INFO - Chain [1] start processing
+2024-11-25 07:00:09,405 - INFO - Chain [1] done processing
+2024-11-25 07:00:09,852 - INFO - {'mae': 3728.7021961937007, 'mape': 21.593265255896867, 'rmse': 4783.447092314626, 'r2': 0.7668540303451207}
+2024-11-25 07:00:09,875 - INFO - changepont_prior_scale: 0.07882842876958823, seasonality_prior_scale: 7.02147207085372, holidays_prior_scale: 9.738513315932, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:00:14,929 - INFO - Chain [1] start processing
+2024-11-25 07:01:51,670 - INFO - Chain [1] done processing
+2024-11-25 07:01:52,202 - INFO - {'mae': 3530.0338837052145, 'mape': 20.054301529523364, 'rmse': 4643.968786047829, 'r2': 0.7802521944709203}
+2024-11-25 07:01:52,225 - INFO - changepont_prior_scale: 0.09115497173623928, seasonality_prior_scale: 7.132662315459517, holidays_prior_scale: 9.79103307678053, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:01:57,354 - INFO - Chain [1] start processing
+2024-11-25 07:03:33,756 - INFO - Chain [1] done processing
+2024-11-25 07:03:34,210 - INFO - {'mae': 3541.505879137511, 'mape': 20.15059858669497, 'rmse': 4650.565950292846, 'r2': 0.7796274090108692}
+2024-11-25 07:03:34,233 - INFO - changepont_prior_scale: 0.08725368244210911, seasonality_prior_scale: 7.729106774134916, holidays_prior_scale: 9.642121115805933, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:03:39,416 - INFO - Chain [1] start processing
+2024-11-25 07:05:21,917 - INFO - Chain [1] done processing
+2024-11-25 07:05:22,364 - INFO - {'mae': 3539.7742576906426, 'mape': 20.134354127473802, 'rmse': 4649.644381149331, 'r2': 0.779714739653979}
+2024-11-25 07:05:22,388 - INFO - changepont_prior_scale: 0.07955553241242398, seasonality_prior_scale: 6.6905401715717865, holidays_prior_scale: 8.86632190270568, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:05:27,576 - INFO - Chain [1] start processing
+2024-11-25 07:07:06,357 - INFO - Chain [1] done processing
+2024-11-25 07:07:06,801 - INFO - {'mae': 3529.9498704494727, 'mape': 20.059147176537852, 'rmse': 4643.501510612089, 'r2': 0.7802964142279215}
+2024-11-25 07:07:06,825 - INFO - changepont_prior_scale: 0.07773611130963824, seasonality_prior_scale: 6.405494419823649, holidays_prior_scale: 8.872347672643267, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:07:12,054 - INFO - Chain [1] start processing
+2024-11-25 07:09:00,984 - INFO - Chain [1] done processing
+2024-11-25 07:09:01,437 - INFO - {'mae': 3540.267693249199, 'mape': 20.143203368828193, 'rmse': 4649.629724903592, 'r2': 0.7797161283837636}
+2024-11-25 07:09:01,460 - INFO - changepont_prior_scale: 0.08125567618034868, seasonality_prior_scale: 6.959440897250132, holidays_prior_scale: 7.74600196378905, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:09:06,673 - INFO - Chain [1] start processing
+2024-11-25 07:11:15,163 - INFO - Chain [1] done processing
+2024-11-25 07:11:15,607 - INFO - {'mae': 3544.722477275464, 'mape': 20.160447463789712, 'rmse': 4653.632158859982, 'r2': 0.779336721345111}
+2024-11-25 07:11:15,628 - INFO - changepont_prior_scale: 0.06772906958031999, seasonality_prior_scale: 6.06655598459913, holidays_prior_scale: 9.53376884713118, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:11:20,826 - INFO - Chain [1] start processing
+2024-11-25 07:13:05,938 - INFO - Chain [1] done processing
+2024-11-25 07:13:06,386 - INFO - {'mae': 3554.675735869764, 'mape': 20.264137989084034, 'rmse': 4658.440346541369, 'r2': 0.7788805019724324}
+2024-11-25 07:13:06,411 - INFO - changepont_prior_scale: 0.09566473230582856, seasonality_prior_scale: 6.817791540195099, holidays_prior_scale: 9.212456387269949, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:13:10,057 - INFO - Chain [1] start processing
+2024-11-25 07:14:18,890 - INFO - Chain [1] done processing
+2024-11-25 07:14:19,317 - INFO - {'mae': 4647.538807523203, 'mape': 28.275539523736303, 'rmse': 5586.531298039137, 'r2': 0.6819975725515521}
+2024-11-25 07:14:19,341 - INFO - changepont_prior_scale: 0.07199771924442118, seasonality_prior_scale: 8.163193142887277, holidays_prior_scale: 8.595139816406308, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 07:14:23,434 - INFO - Chain [1] start processing
+2024-11-25 07:16:05,499 - INFO - Chain [1] done processing
+2024-11-25 07:16:05,929 - INFO - {'mae': 7820.507757650425, 'mape': 66.33063176991035, 'rmse': 9879.13713284403, 'r2': 0.00554762197639147}
+2024-11-25 07:16:05,953 - INFO - changepont_prior_scale: 0.08494386995027597, seasonality_prior_scale: 8.719827390408632, holidays_prior_scale: 9.190496668089205, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:16:11,152 - INFO - Chain [1] start processing
+2024-11-25 07:18:14,115 - INFO - Chain [1] done processing
+2024-11-25 07:18:14,555 - INFO - {'mae': 3535.403350449013, 'mape': 20.09522032562189, 'rmse': 4647.255779593343, 'r2': 0.7799410101040609}
+2024-11-25 07:18:14,577 - INFO - changepont_prior_scale: 0.06410546922036192, seasonality_prior_scale: 7.3085962485175076, holidays_prior_scale: 6.5476212615069915, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:18:19,635 - INFO - Chain [1] start processing
+2024-11-25 07:20:16,471 - INFO - Chain [1] done processing
+2024-11-25 07:20:16,915 - INFO - {'mae': 3782.009086092527, 'mape': 21.168315104596353, 'rmse': 4824.547632753408, 'r2': 0.7628303242468003}
+2024-11-25 07:20:16,939 - INFO - changepont_prior_scale: 0.09128053973367868, seasonality_prior_scale: 9.437302729085426, holidays_prior_scale: 5.849436619466353, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:20:22,121 - INFO - Chain [1] start processing
+2024-11-25 07:22:10,392 - INFO - Chain [1] done processing
+2024-11-25 07:22:10,840 - INFO - {'mae': 3536.971831500269, 'mape': 20.11469735244035, 'rmse': 4647.811953580362, 'r2': 0.7798883345400931}
+2024-11-25 07:22:10,865 - INFO - changepont_prior_scale: 0.08779184247579773, seasonality_prior_scale: 6.292183023624689, holidays_prior_scale: 7.817970145300289, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:22:16,060 - INFO - Chain [1] start processing
+2024-11-25 07:24:17,439 - INFO - Chain [1] done processing
+2024-11-25 07:24:17,884 - INFO - {'mae': 3542.2707578493078, 'mape': 20.140566784800424, 'rmse': 4652.115281377139, 'r2': 0.7794805507649983}
+2024-11-25 07:24:17,906 - INFO - changepont_prior_scale: 0.05568723984663958, seasonality_prior_scale: 7.807540417200814, holidays_prior_scale: 9.915954809335682, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:24:23,107 - INFO - Chain [1] start processing
+2024-11-25 07:26:30,793 - INFO - Chain [1] done processing
+2024-11-25 07:26:31,239 - INFO - {'mae': 3563.533272094981, 'mape': 20.333079329349463, 'rmse': 4664.249427908337, 'r2': 0.7783286855070128}
+2024-11-25 07:26:31,264 - INFO - changepont_prior_scale: 0.09412985604382483, seasonality_prior_scale: 5.933519271077802, holidays_prior_scale: 9.455773247785125, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:26:36,451 - INFO - Chain [1] start processing
+2024-11-25 07:28:21,275 - INFO - Chain [1] done processing
+2024-11-25 07:28:21,719 - INFO - {'mae': 3536.880191245136, 'mape': 20.110759293698788, 'rmse': 4647.928862601762, 'r2': 0.7798772612164286}
+2024-11-25 07:28:21,744 - INFO - changepont_prior_scale: 0.09997545448575981, seasonality_prior_scale: 5.20096336470994, holidays_prior_scale: 5.729230371860942, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:28:26,839 - INFO - Chain [1] start processing
+2024-11-25 07:30:23,889 - INFO - Chain [1] done processing
+2024-11-25 07:30:24,333 - INFO - {'mae': 3536.068780078717, 'mape': 20.113405958395838, 'rmse': 4646.856020619603, 'r2': 0.779978867616753}
+2024-11-25 07:30:24,358 - INFO - changepont_prior_scale: 0.07879951412963944, seasonality_prior_scale: 6.634015338722107, holidays_prior_scale: 8.616973346715655, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:30:29,529 - INFO - Chain [1] start processing
+2024-11-25 07:32:21,114 - INFO - Chain [1] done processing
+2024-11-25 07:32:21,559 - INFO - {'mae': 3547.292232525771, 'mape': 20.198916636568903, 'rmse': 4654.06791551116, 'r2': 0.7792953944890276}
+2024-11-25 07:32:21,583 - INFO - changepont_prior_scale: 0.0894567250668887, seasonality_prior_scale: 7.471610657938531, holidays_prior_scale: 4.9625724778437235, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:32:25,213 - INFO - Chain [1] start processing
+2024-11-25 07:33:37,272 - INFO - Chain [1] done processing
+2024-11-25 07:33:37,694 - INFO - {'mae': 4636.761992837838, 'mape': 28.197324026115584, 'rmse': 5576.141203901703, 'r2': 0.6831793443679743}
+2024-11-25 07:33:37,715 - INFO - changepont_prior_scale: 0.08284906223704439, seasonality_prior_scale: 8.310499968766994, holidays_prior_scale: 4.492398434380105, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 07:33:42,323 - INFO - Chain [1] start processing
+2024-11-25 07:35:17,079 - INFO - Chain [1] done processing
+2024-11-25 07:35:17,521 - INFO - {'mae': 7680.639558555136, 'mape': 64.31867969927711, 'rmse': 9555.804199453756, 'r2': 0.06957697875924129}
+2024-11-25 07:35:17,545 - INFO - changepont_prior_scale: 0.0959532181293769, seasonality_prior_scale: 7.052620442804908, holidays_prior_scale: 3.8321040021853645, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 07:35:22,155 - INFO - Chain [1] start processing
+2024-11-25 07:36:53,011 - INFO - Chain [1] done processing
+2024-11-25 07:36:53,534 - INFO - {'mae': 3935.297154715508, 'mape': 22.500877556954872, 'rmse': 5239.2356380420015, 'r2': 0.7203068527486802}
+2024-11-25 07:36:53,558 - INFO - changepont_prior_scale: 0.0353997323437473, seasonality_prior_scale: 9.560480027296041, holidays_prior_scale: 7.179870340633791, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:36:58,617 - INFO - Chain [1] start processing
+2024-11-25 07:38:52,320 - INFO - Chain [1] done processing
+2024-11-25 07:38:52,765 - INFO - {'mae': 3567.9793217077836, 'mape': 20.403758922127935, 'rmse': 4665.185256198794, 'r2': 0.7782397249566159}
+2024-11-25 07:38:52,790 - INFO - changepont_prior_scale: 0.0742796285904897, seasonality_prior_scale: 8.674189700635038, holidays_prior_scale: 1.7777310040513494, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:38:57,978 - INFO - Chain [1] start processing
+2024-11-25 07:40:50,817 - INFO - Chain [1] done processing
+2024-11-25 07:40:51,264 - INFO - {'mae': 3567.0181651499556, 'mape': 20.35990492636476, 'rmse': 4666.533436684749, 'r2': 0.7781115345167201}
+2024-11-25 07:40:51,288 - INFO - changepont_prior_scale: 0.0843648625489158, seasonality_prior_scale: 9.002163520251699, holidays_prior_scale: 1.3149773825773436, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:40:56,470 - INFO - Chain [1] start processing
+2024-11-25 07:42:26,373 - INFO - Chain [1] done processing
+2024-11-25 07:42:26,817 - INFO - {'mae': 3546.234621512273, 'mape': 20.174516402035632, 'rmse': 4654.464616786636, 'r2': 0.7792577682525679}
+2024-11-25 07:42:26,841 - INFO - changepont_prior_scale: 0.09223922742339946, seasonality_prior_scale: 7.93177651827635, holidays_prior_scale: 6.51764860347925, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:42:32,020 - INFO - Chain [1] start processing
+2024-11-25 07:44:03,007 - INFO - Chain [1] done processing
+2024-11-25 07:44:03,457 - INFO - {'mae': 3534.7591677887754, 'mape': 20.1033553524002, 'rmse': 4645.99667862187, 'r2': 0.7800602370054137}
+2024-11-25 07:44:03,481 - INFO - changepont_prior_scale: 0.07303200115706346, seasonality_prior_scale: 8.525282331287997, holidays_prior_scale: 9.656773975820181, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:44:08,541 - INFO - Chain [1] start processing
+2024-11-25 07:45:57,638 - INFO - Chain [1] done processing
+2024-11-25 07:45:58,083 - INFO - {'mae': 3544.3774757316737, 'mape': 20.184794124046316, 'rmse': 4651.605875806953, 'r2': 0.779528841780468}
+2024-11-25 07:45:58,107 - INFO - changepont_prior_scale: 0.07838859481809055, seasonality_prior_scale: 1.0761347269485029, holidays_prior_scale: 7.433120697325644, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:46:03,265 - INFO - Chain [1] start processing
+2024-11-25 07:47:42,939 - INFO - Chain [1] done processing
+2024-11-25 07:47:43,382 - INFO - {'mae': 3538.6308083326685, 'mape': 20.13333922064035, 'rmse': 4648.422957354918, 'r2': 0.7798304587483167}
+2024-11-25 07:47:43,407 - INFO - changepont_prior_scale: 0.08783154894888234, seasonality_prior_scale: 7.666985646037514, holidays_prior_scale: 9.0109113202427, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:47:48,579 - INFO - Chain [1] start processing
+2024-11-25 07:49:15,761 - INFO - Chain [1] done processing
+2024-11-25 07:49:16,200 - INFO - {'mae': 3800.9449356539985, 'mape': 21.25662491582453, 'rmse': 4839.713673600984, 'r2': 0.7613368874483867}
+2024-11-25 07:49:16,223 - INFO - changepont_prior_scale: 0.0700851332917687, seasonality_prior_scale: 8.17135357758442, holidays_prior_scale: 1.8839623333831839, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:49:21,422 - INFO - Chain [1] start processing
+2024-11-25 07:51:51,222 - INFO - Chain [1] done processing
+2024-11-25 07:51:51,667 - INFO - {'mae': 3554.133321298589, 'mape': 20.252394389996844, 'rmse': 4658.560242564198, 'r2': 0.7788691197553909}
+2024-11-25 07:51:51,692 - INFO - changepont_prior_scale: 0.09724216733534909, seasonality_prior_scale: 9.299103547490686, holidays_prior_scale: 2.6466611121761465, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:51:56,912 - INFO - Chain [1] start processing
+2024-11-25 07:53:34,381 - INFO - Chain [1] done processing
+2024-11-25 07:53:34,824 - INFO - {'mae': 3543.0271641489085, 'mape': 20.161762742917368, 'rmse': 4651.58373289501, 'r2': 0.7795309407810942}
+2024-11-25 07:53:34,848 - INFO - changepont_prior_scale: 0.08092097273739544, seasonality_prior_scale: 8.320233734738762, holidays_prior_scale: 1.399790178745506, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:53:38,372 - INFO - Chain [1] start processing
+2024-11-25 07:54:50,840 - INFO - Chain [1] done processing
+2024-11-25 07:54:51,271 - INFO - {'mae': 4635.540200579836, 'mape': 28.189054188361112, 'rmse': 5574.970495798334, 'r2': 0.6833123630845713}
+2024-11-25 07:54:51,294 - INFO - changepont_prior_scale: 0.07663661617621066, seasonality_prior_scale: 7.168090765311954, holidays_prior_scale: 9.993413674932189, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:54:56,471 - INFO - Chain [1] start processing
+2024-11-25 07:56:44,431 - INFO - Chain [1] done processing
+2024-11-25 07:56:44,873 - INFO - {'mae': 3536.1968446219585, 'mape': 20.104033415363336, 'rmse': 4647.652288735685, 'r2': 0.7799034571360935}
+2024-11-25 07:56:44,897 - INFO - changepont_prior_scale: 0.08677604718521027, seasonality_prior_scale: 7.345795461645379, holidays_prior_scale: 9.405694823766176, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:56:50,104 - INFO - Chain [1] start processing
+2024-11-25 07:58:10,649 - INFO - Chain [1] done processing
+2024-11-25 07:58:11,097 - INFO - {'mae': 3540.772761949209, 'mape': 20.146434237697306, 'rmse': 4650.060244652064, 'r2': 0.779675333329887}
+2024-11-25 07:58:11,119 - INFO - changepont_prior_scale: 0.08545130593569225, seasonality_prior_scale: 7.325106207754773, holidays_prior_scale: 9.310594759762704, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:58:16,309 - INFO - Chain [1] start processing
+2024-11-25 07:59:40,117 - INFO - Chain [1] done processing
+2024-11-25 07:59:40,558 - INFO - {'mae': 3533.0271053091883, 'mape': 20.097589328190153, 'rmse': 4644.546504533338, 'r2': 0.78019751698629}
+2024-11-25 07:59:40,583 - INFO - changepont_prior_scale: 0.09452443730913261, seasonality_prior_scale: 6.7881874242350495, holidays_prior_scale: 3.3166741687195604, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 07:59:45,658 - INFO - Chain [1] start processing
+2024-11-25 08:01:17,128 - INFO - Chain [1] done processing
+2024-11-25 08:01:17,571 - INFO - {'mae': 3541.889951154871, 'mape': 20.16758360217926, 'rmse': 4649.9419766876945, 'r2': 0.7796865405044568}
+2024-11-25 08:01:17,597 - INFO - changepont_prior_scale: 0.09139097274820165, seasonality_prior_scale: 6.48413301139727, holidays_prior_scale: 8.501459519933816, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:01:22,759 - INFO - Chain [1] start processing
+2024-11-25 08:03:17,022 - INFO - Chain [1] done processing
+2024-11-25 08:03:17,470 - INFO - {'mae': 3538.513857044331, 'mape': 20.127306075917613, 'rmse': 4648.7263333072, 'r2': 0.7798017193997293}
+2024-11-25 08:03:17,495 - INFO - changepont_prior_scale: 0.021498010478241323, seasonality_prior_scale: 7.569705123007465, holidays_prior_scale: 9.136937041907862, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:03:22,664 - INFO - Chain [1] start processing
+2024-11-25 08:04:53,700 - INFO - Chain [1] done processing
+2024-11-25 08:04:54,143 - INFO - {'mae': 3622.7363248828283, 'mape': 20.846021820417683, 'rmse': 4701.578714174914, 'r2': 0.7747662924678964}
+2024-11-25 08:04:54,168 - INFO - changepont_prior_scale: 0.08286608100269122, seasonality_prior_scale: 3.1267553062483446, holidays_prior_scale: 8.78290005103818, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 08:04:58,289 - INFO - Chain [1] start processing
+2024-11-25 08:06:20,642 - INFO - Chain [1] done processing
+2024-11-25 08:06:21,075 - INFO - {'mae': 7818.750342098028, 'mape': 66.3539927623374, 'rmse': 9879.691074763077, 'r2': 0.005436097195349321}
+2024-11-25 08:06:21,098 - INFO - changepont_prior_scale: 0.09803210266793998, seasonality_prior_scale: 4.577982448547598, holidays_prior_scale: 9.722233460833525, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:06:26,320 - INFO - Chain [1] start processing
+2024-11-25 08:08:11,681 - INFO - Chain [1] done processing
+2024-11-25 08:08:12,130 - INFO - {'mae': 3537.943136665702, 'mape': 20.133401982094814, 'rmse': 4647.624131650894, 'r2': 0.7799061239699537}
+2024-11-25 08:08:12,158 - INFO - changepont_prior_scale: 0.08957510642383809, seasonality_prior_scale: 8.898238773294713, holidays_prior_scale: 9.31801526296725, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:08:17,260 - INFO - Chain [1] start processing
+2024-11-25 08:10:14,186 - INFO - Chain [1] done processing
+2024-11-25 08:10:14,635 - INFO - {'mae': 3537.498304505989, 'mape': 20.121890706054245, 'rmse': 4647.906630043851, 'r2': 0.7798793670489308}
+2024-11-25 08:10:14,657 - INFO - changepont_prior_scale: 0.08516356950160689, seasonality_prior_scale: 7.866384736036691, holidays_prior_scale: 2.8754480590200275, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:10:19,833 - INFO - Chain [1] start processing
+2024-11-25 08:11:54,442 - INFO - Chain [1] done processing
+2024-11-25 08:11:54,884 - INFO - {'mae': 3812.2583365664836, 'mape': 21.303934448134783, 'rmse': 4849.205908444473, 'r2': 0.7603997791398717}
+2024-11-25 08:11:54,887 - INFO - 
+Hyperparameter Tuning Done for Manhattan
+2024-11-25 08:11:54,888 - INFO - Best Parameters: {'changepoint_prior_scale': 0.09887956068859806, 'seasonality_prior_scale': 9.973364228494757, 'holidays_prior_scale': 9.690045982230117, 'seasonality_mode': 'additive', 'yearly_seasonality': True, 'weekly_seasonality': True, 'daily_seasonality': True}
+2024-11-25 08:11:59,130 - INFO - Chain [1] start processing
+2024-11-25 08:13:07,286 - INFO - Chain [1] done processing
+2024-11-25 08:13:07,531 - INFO - Model Saved in ../models/Manhattan_Prophet.joblib
+2024-11-25 08:13:07,531 - INFO - Forecasts Saved in ../data/Manhattan_Aug2024_forecasts.csv
+2024-11-25 08:20:56,978 - INFO - Chain [1] start processing
+2024-11-25 08:22:05,333 - INFO - Chain [1] done processing
+2024-11-25 08:22:05,579 - INFO - Model Saved in ../models/Manhattan_Prophet.joblib
+2024-11-25 08:22:05,579 - INFO - Forecasts Saved in ../data/Manhattan_Aug2024_forecasts.csv
+2024-11-25 08:29:48,783 - INFO - Tuning for Queens - Prophet Model
+2024-11-25 08:29:48,905 - INFO - changepont_prior_scale: 0.05389692806218487, seasonality_prior_scale: 1.5147360826233989, holidays_prior_scale: 3.998919637435262, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 08:29:53,519 - INFO - Chain [1] start processing
+2024-11-25 08:30:56,353 - INFO - Chain [1] done processing
+2024-11-25 08:30:56,795 - INFO - {'mae': 9466.370355209097, 'mape': 58.96796459259955, 'rmse': 11536.880589862427, 'r2': 0.06397287726014222}
+2024-11-25 08:30:56,801 - INFO - changepont_prior_scale: 0.06946870159885218, seasonality_prior_scale: 1.6710731976875537, holidays_prior_scale: 1.5095549324251551, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 08:31:00,941 - INFO - Chain [1] start processing
+2024-11-25 08:32:02,285 - INFO - Chain [1] done processing
+2024-11-25 08:32:02,726 - INFO - {'mae': 9596.591446134928, 'mape': 60.02968307169563, 'rmse': 11872.491657802178, 'r2': 0.008722190512324035}
+2024-11-25 08:32:02,731 - INFO - changepont_prior_scale: 0.06176548484645731, seasonality_prior_scale: 1.6034006035407966, holidays_prior_scale: 7.999395102375374, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 08:32:05,925 - INFO - Chain [1] start processing
+2024-11-25 08:33:10,697 - INFO - Chain [1] done processing
+2024-11-25 08:33:11,124 - INFO - {'mae': 5445.074455447118, 'mape': 24.32591206771692, 'rmse': 6843.000302492473, 'r2': 0.670690123187379}
+2024-11-25 08:33:11,130 - INFO - changepont_prior_scale: 0.08804151819271276, seasonality_prior_scale: 2.1841481127328493, holidays_prior_scale: 1.4940531387569875, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 08:33:15,607 - INFO - Chain [1] start processing
+2024-11-25 08:34:31,517 - INFO - Chain [1] done processing
+2024-11-25 08:34:31,957 - INFO - {'mae': 9532.951908874706, 'mape': 58.66203523150342, 'rmse': 11524.834873702392, 'r2': 0.06592647827856202}
+2024-11-25 08:34:31,962 - INFO - changepont_prior_scale: 0.04289892524691078, seasonality_prior_scale: 7.606021473692631, holidays_prior_scale: 3.7701267726530743, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:34:35,607 - INFO - Chain [1] start processing
+2024-11-25 08:35:34,372 - INFO - Chain [1] done processing
+2024-11-25 08:35:34,805 - INFO - {'mae': 5181.426569581498, 'mape': 22.069151256899087, 'rmse': 6360.067294138217, 'r2': 0.7155309255617233}
+2024-11-25 08:35:34,811 - INFO - changepont_prior_scale: 0.0023110824483276097, seasonality_prior_scale: 2.344331122281313, holidays_prior_scale: 2.217681158318231, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 08:35:37,356 - INFO - Chain [1] start processing
+2024-11-25 08:35:46,564 - INFO - Chain [1] done processing
+2024-11-25 08:35:46,985 - INFO - {'mae': 9321.86250107935, 'mape': 66.22062672595015, 'rmse': 12474.15937183897, 'r2': -0.09429449590802097}
+2024-11-25 08:35:46,990 - INFO - changepont_prior_scale: 0.06888165737855095, seasonality_prior_scale: 4.667515253974355, holidays_prior_scale: 3.9547832592614434, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 08:35:49,911 - INFO - Chain [1] start processing
+2024-11-25 08:36:44,327 - INFO - Chain [1] done processing
+2024-11-25 08:36:44,755 - INFO - {'mae': 9056.896954961994, 'mape': 62.480864887234574, 'rmse': 11928.391922112165, 'r2': -0.0006344206026802635}
+2024-11-25 08:36:44,761 - INFO - changepont_prior_scale: 0.0761322761770319, seasonality_prior_scale: 8.183552880608758, holidays_prior_scale: 8.352959774746676, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:36:49,976 - INFO - Chain [1] start processing
+2024-11-25 08:38:47,925 - INFO - Chain [1] done processing
+2024-11-25 08:38:48,379 - INFO - {'mae': 4005.641248546687, 'mape': 18.04559882004148, 'rmse': 5331.206276754437, 'r2': 0.800123097059029}
+2024-11-25 08:38:48,385 - INFO - changepont_prior_scale: 0.015341286549070625, seasonality_prior_scale: 5.7990826348420415, holidays_prior_scale: 8.01472507755501, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 08:38:52,509 - INFO - Chain [1] start processing
+2024-11-25 08:39:23,912 - INFO - Chain [1] done processing
+2024-11-25 08:39:24,345 - INFO - {'mae': 9495.69735284713, 'mape': 60.55136723251928, 'rmse': 11890.817837744971, 'r2': 0.005659588884947997}
+2024-11-25 08:39:24,350 - INFO - changepont_prior_scale: 0.040787344383784854, seasonality_prior_scale: 9.578719436050353, holidays_prior_scale: 6.130168871358217, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:39:29,555 - INFO - Chain [1] start processing
+2024-11-25 08:40:57,655 - INFO - Chain [1] done processing
+2024-11-25 08:40:58,104 - INFO - {'mae': 4241.481312326189, 'mape': 18.430118695689483, 'rmse': 5488.507551141785, 'r2': 0.7881540478260716}
+2024-11-25 08:40:58,126 - INFO - changepont_prior_scale: 0.09877385835057384, seasonality_prior_scale: 9.576455645144529, holidays_prior_scale: 9.849989909226002, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:41:03,181 - INFO - Chain [1] start processing
+2024-11-25 08:43:16,128 - INFO - Chain [1] done processing
+2024-11-25 08:43:16,576 - INFO - {'mae': 4000.576238671495, 'mape': 18.016248997660735, 'rmse': 5327.827823629364, 'r2': 0.8003763458538552}
+2024-11-25 08:43:16,598 - INFO - changepont_prior_scale: 0.09806537521618877, seasonality_prior_scale: 9.767515763930312, holidays_prior_scale: 9.479534629446839, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:43:21,783 - INFO - Chain [1] start processing
+2024-11-25 08:44:32,913 - INFO - Chain [1] done processing
+2024-11-25 08:44:33,360 - INFO - {'mae': 3988.718702665922, 'mape': 17.94266661512799, 'rmse': 5320.4943068461125, 'r2': 0.8009255137099172}
+2024-11-25 08:44:33,380 - INFO - changepont_prior_scale: 0.09938872517532185, seasonality_prior_scale: 9.821814225298162, holidays_prior_scale: 9.896386976934728, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:44:38,581 - INFO - Chain [1] start processing
+2024-11-25 08:46:18,940 - INFO - Chain [1] done processing
+2024-11-25 08:46:19,393 - INFO - {'mae': 3991.4887250364604, 'mape': 17.955298198551954, 'rmse': 5322.418497361629, 'r2': 0.8007814945703993}
+2024-11-25 08:46:19,414 - INFO - changepont_prior_scale: 0.09967768411437516, seasonality_prior_scale: 7.8073432320402505, holidays_prior_scale: 9.813034996561056, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:46:24,614 - INFO - Chain [1] start processing
+2024-11-25 08:48:12,971 - INFO - Chain [1] done processing
+2024-11-25 08:48:13,416 - INFO - {'mae': 3985.9792362660232, 'mape': 17.91984320118603, 'rmse': 5319.003236356055, 'r2': 0.8010370794708341}
+2024-11-25 08:48:13,437 - INFO - changepont_prior_scale: 0.0853249299887846, seasonality_prior_scale: 7.578671681121271, holidays_prior_scale: 6.563645309276233, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:48:18,634 - INFO - Chain [1] start processing
+2024-11-25 08:50:11,048 - INFO - Chain [1] done processing
+2024-11-25 08:50:11,498 - INFO - {'mae': 4006.0186937975, 'mape': 18.057958168411954, 'rmse': 5330.714948698732, 'r2': 0.8001599369784297}
+2024-11-25 08:50:11,517 - INFO - changepont_prior_scale: 0.08458875017893733, seasonality_prior_scale: 6.167342524647753, holidays_prior_scale: 8.827229987775388, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:50:16,612 - INFO - Chain [1] start processing
+2024-11-25 08:52:27,035 - INFO - Chain [1] done processing
+2024-11-25 08:52:27,478 - INFO - {'mae': 3996.524395245199, 'mape': 17.997125069074908, 'rmse': 5324.8813727521265, 'r2': 0.8005970807083842}
+2024-11-25 08:52:27,501 - INFO - changepont_prior_scale: 0.024100498512169628, seasonality_prior_scale: 8.61417915282184, holidays_prior_scale: 6.847734633569182, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:52:32,672 - INFO - Chain [1] start processing
+2024-11-25 08:54:11,847 - INFO - Chain [1] done processing
+2024-11-25 08:54:12,302 - INFO - {'mae': 4087.8203562201734, 'mape': 18.644246828876813, 'rmse': 5380.576405522662, 'r2': 0.796403998811502}
+2024-11-25 08:54:12,323 - INFO - changepont_prior_scale: 0.09210121573506433, seasonality_prior_scale: 6.831700304789631, holidays_prior_scale: 9.081310938408539, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:54:17,544 - INFO - Chain [1] start processing
+2024-11-25 08:56:15,971 - INFO - Chain [1] done processing
+2024-11-25 08:56:16,417 - INFO - {'mae': 3991.109644500923, 'mape': 17.962602247285854, 'rmse': 5321.553105155504, 'r2': 0.8008462726881821}
+2024-11-25 08:56:16,438 - INFO - changepont_prior_scale: 0.07711620627491668, seasonality_prior_scale: 4.750702572600418, holidays_prior_scale: 7.384337982532635, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 08:56:19,624 - INFO - Chain [1] start processing
+2024-11-25 08:57:12,737 - INFO - Chain [1] done processing
+2024-11-25 08:57:13,165 - INFO - {'mae': 5481.018618756015, 'mape': 27.520583699431572, 'rmse': 6736.8752079244305, 'r2': 0.6808251643532701}
+2024-11-25 08:57:13,186 - INFO - changepont_prior_scale: 0.0991753794849486, seasonality_prior_scale: 8.76254111719011, holidays_prior_scale: 9.266663782603382, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:57:18,280 - INFO - Chain [1] start processing
+2024-11-25 08:59:05,622 - INFO - Chain [1] done processing
+2024-11-25 08:59:06,070 - INFO - {'mae': 3986.352762144723, 'mape': 17.92342285999356, 'rmse': 5319.120315154105, 'r2': 0.8010283204628291}
+2024-11-25 08:59:06,092 - INFO - changepont_prior_scale: 0.05395976521727942, seasonality_prior_scale: 8.633310632896592, holidays_prior_scale: 4.756434295305525, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 08:59:11,279 - INFO - Chain [1] start processing
+2024-11-25 09:00:48,665 - INFO - Chain [1] done processing
+2024-11-25 09:00:49,113 - INFO - {'mae': 4018.7446873608724, 'mape': 18.162201898153285, 'rmse': 5337.079379866276, 'r2': 0.799682467224196}
+2024-11-25 09:00:49,134 - INFO - changepont_prior_scale: 0.09989443558416879, seasonality_prior_scale: 8.642402520771846, holidays_prior_scale: 9.218115043891027, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:00:54,336 - INFO - Chain [1] start processing
+2024-11-25 09:02:39,052 - INFO - Chain [1] done processing
+2024-11-25 09:02:39,501 - INFO - {'mae': 3983.3686446065826, 'mape': 17.890269695371735, 'rmse': 5318.1242232553195, 'r2': 0.8011028348594957}
+2024-11-25 09:02:39,522 - INFO - changepont_prior_scale: 0.07933625612103781, seasonality_prior_scale: 7.506293153885248, holidays_prior_scale: 8.42708966714179, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:02:44,589 - INFO - Chain [1] start processing
+2024-11-25 09:04:29,832 - INFO - Chain [1] done processing
+2024-11-25 09:04:30,367 - INFO - {'mae': 3989.675661143431, 'mape': 17.94717782628579, 'rmse': 5321.016254148523, 'r2': 0.8008864528701605}
+2024-11-25 09:04:30,388 - INFO - changepont_prior_scale: 0.09260963518270388, seasonality_prior_scale: 8.852302680686357, holidays_prior_scale: 7.554188155954568, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:04:35,459 - INFO - Chain [1] start processing
+2024-11-25 09:06:18,519 - INFO - Chain [1] done processing
+2024-11-25 09:06:18,969 - INFO - {'mae': 3987.8637784537045, 'mape': 17.92796853224658, 'rmse': 5320.382397483875, 'r2': 0.8009338881440268}
+2024-11-25 09:06:18,990 - INFO - changepont_prior_scale: 0.09101370467802816, seasonality_prior_scale: 6.802768920257415, holidays_prior_scale: 9.120117371019562, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:06:24,284 - INFO - Chain [1] start processing
+2024-11-25 09:07:32,469 - INFO - Chain [1] done processing
+2024-11-25 09:07:32,918 - INFO - {'mae': 4016.4676910881735, 'mape': 18.12787436913099, 'rmse': 5337.10472745761, 'r2': 0.7996805644685299}
+2024-11-25 09:07:32,939 - INFO - changepont_prior_scale: 0.06828602936808735, seasonality_prior_scale: 4.825251354495749, holidays_prior_scale: 9.913836210435298, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:07:38,174 - INFO - Chain [1] start processing
+2024-11-25 09:09:55,563 - INFO - Chain [1] done processing
+2024-11-25 09:09:56,006 - INFO - {'mae': 4011.2507404888865, 'mape': 18.086874368589097, 'rmse': 5334.229533784722, 'r2': 0.7998963376503543}
+2024-11-25 09:09:56,028 - INFO - changepont_prior_scale: 0.09994544984721972, seasonality_prior_scale: 3.797859778787582, holidays_prior_scale: 5.864180500039458, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:09:59,678 - INFO - Chain [1] start processing
+2024-11-25 09:11:07,020 - INFO - Chain [1] done processing
+2024-11-25 09:11:07,448 - INFO - {'mae': 5125.268955155885, 'mape': 24.59598018834187, 'rmse': 6253.080654371555, 'r2': 0.7250208919756045}
+2024-11-25 09:11:07,470 - INFO - changepont_prior_scale: 0.08167488683725015, seasonality_prior_scale: 9.055223622348874, holidays_prior_scale: 8.89029488241282, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 09:11:12,122 - INFO - Chain [1] start processing
+2024-11-25 09:12:47,341 - INFO - Chain [1] done processing
+2024-11-25 09:12:47,779 - INFO - {'mae': 4560.83717078451, 'mape': 20.83995303689154, 'rmse': 5992.280133860569, 'r2': 0.7474799572462232}
+2024-11-25 09:12:47,803 - INFO - changepont_prior_scale: 0.0916762969641583, seasonality_prior_scale: 8.003536984877318, holidays_prior_scale: 7.367150932488588, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:12:53,003 - INFO - Chain [1] start processing
+2024-11-25 09:14:25,074 - INFO - Chain [1] done processing
+2024-11-25 09:14:25,516 - INFO - {'mae': 3981.8903317735912, 'mape': 17.903332206768223, 'rmse': 5315.877346406686, 'r2': 0.8012708651690786}
+2024-11-25 09:14:25,538 - INFO - changepont_prior_scale: 0.060565920845848664, seasonality_prior_scale: 6.947589751625802, holidays_prior_scale: 5.203125353922752, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 09:14:30,118 - INFO - Chain [1] start processing
+2024-11-25 09:15:50,521 - INFO - Chain [1] done processing
+2024-11-25 09:15:50,969 - INFO - {'mae': 9301.089517912456, 'mape': 59.7588035457568, 'rmse': 11576.4721805233, 'r2': 0.05753744776680281}
+2024-11-25 09:15:50,990 - INFO - changepont_prior_scale: 0.08981247977052907, seasonality_prior_scale: 7.851323285889781, holidays_prior_scale: 7.017910891567615, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:15:56,182 - INFO - Chain [1] start processing
+2024-11-25 09:17:29,550 - INFO - Chain [1] done processing
+2024-11-25 09:17:29,994 - INFO - {'mae': 3991.5014016545224, 'mape': 17.95952690394924, 'rmse': 5322.198098015966, 'r2': 0.8007979933553646}
+2024-11-25 09:17:30,018 - INFO - changepont_prior_scale: 0.0930525502154111, seasonality_prior_scale: 8.372364942471243, holidays_prior_scale: 9.338324363140893, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:17:35,096 - INFO - Chain [1] start processing
+2024-11-25 09:19:18,874 - INFO - Chain [1] done processing
+2024-11-25 09:19:19,320 - INFO - {'mae': 3987.3606925624454, 'mape': 17.924098672507146, 'rmse': 5320.128652865732, 'r2': 0.8009528757829718}
+2024-11-25 09:19:19,341 - INFO - changepont_prior_scale: 0.09403976237278638, seasonality_prior_scale: 9.071844531349177, holidays_prior_scale: 8.38523051351417, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:19:24,526 - INFO - Chain [1] start processing
+2024-11-25 09:20:50,736 - INFO - Chain [1] done processing
+2024-11-25 09:20:51,185 - INFO - {'mae': 3988.767946325263, 'mape': 17.94030034368746, 'rmse': 5320.615685776385, 'r2': 0.800916430447189}
+2024-11-25 09:20:51,208 - INFO - changepont_prior_scale: 0.07382702373136694, seasonality_prior_scale: 8.052793830097837, holidays_prior_scale: 8.069545272534763, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:20:56,425 - INFO - Chain [1] start processing
+2024-11-25 09:22:56,125 - INFO - Chain [1] done processing
+2024-11-25 09:22:56,570 - INFO - {'mae': 4006.564816490722, 'mape': 18.06528863836874, 'rmse': 5330.7768919131695, 'r2': 0.8001552926453837}
+2024-11-25 09:22:56,590 - INFO - changepont_prior_scale: 0.0850087919503081, seasonality_prior_scale: 7.151030311603545, holidays_prior_scale: 7.494560466127411, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 09:23:00,731 - INFO - Chain [1] start processing
+2024-11-25 09:24:17,211 - INFO - Chain [1] done processing
+2024-11-25 09:24:17,643 - INFO - {'mae': 9604.4261230844, 'mape': 59.99265988998738, 'rmse': 11872.28194301869, 'r2': 0.008757209913667463}
+2024-11-25 09:24:17,665 - INFO - changepont_prior_scale: 0.08795467590665543, seasonality_prior_scale: 6.273778662297765, holidays_prior_scale: 9.40630212938225, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:24:22,969 - INFO - Chain [1] start processing
+2024-11-25 09:25:46,354 - INFO - Chain [1] done processing
+2024-11-25 09:25:46,800 - INFO - {'mae': 4286.336210485156, 'mape': 18.568224693650176, 'rmse': 5521.864221261107, 'r2': 0.7855712149155978}
+2024-11-25 09:25:46,821 - INFO - changepont_prior_scale: 0.09406308560935012, seasonality_prior_scale: 9.137247677019671, holidays_prior_scale: 8.629903642731684, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:25:50,359 - INFO - Chain [1] start processing
+2024-11-25 09:27:10,317 - INFO - Chain [1] done processing
+2024-11-25 09:27:10,751 - INFO - {'mae': 5125.896615642237, 'mape': 24.599585861737687, 'rmse': 6253.585973126796, 'r2': 0.72497644741373}
+2024-11-25 09:27:10,773 - INFO - changepont_prior_scale: 0.062276821868213275, seasonality_prior_scale: 8.22529806559445, holidays_prior_scale: 2.7011281817726487, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 09:27:14,894 - INFO - Chain [1] start processing
+2024-11-25 09:28:31,836 - INFO - Chain [1] done processing
+2024-11-25 09:28:32,269 - INFO - {'mae': 9429.54672165945, 'mape': 61.00570970910544, 'rmse': 11907.071403381402, 'r2': 0.0029394021001252213}
+2024-11-25 09:28:32,290 - INFO - changepont_prior_scale: 0.08147641560076814, seasonality_prior_scale: 1.0885306454715193, holidays_prior_scale: 7.753549949154193, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:28:35,964 - INFO - Chain [1] start processing
+2024-11-25 09:29:38,003 - INFO - Chain [1] done processing
+2024-11-25 09:29:38,448 - INFO - {'mae': 5231.1527506315315, 'mape': 22.262329856665488, 'rmse': 6410.409279766104, 'r2': 0.7110097738115242}
+2024-11-25 09:29:38,470 - INFO - changepont_prior_scale: 0.04230949094634354, seasonality_prior_scale: 7.29671470301792, holidays_prior_scale: 9.66367749623776, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 09:29:43,095 - INFO - Chain [1] start processing
+2024-11-25 09:30:54,074 - INFO - Chain [1] done processing
+2024-11-25 09:30:54,512 - INFO - {'mae': 9247.43127939336, 'mape': 60.06005775585713, 'rmse': 11606.467302960767, 'r2': 0.052647200954630824}
+2024-11-25 09:30:54,534 - INFO - changepont_prior_scale: 0.03420409141222659, seasonality_prior_scale: 6.405051019076704, holidays_prior_scale: 8.793724469398594, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 09:30:57,589 - INFO - Chain [1] start processing
+2024-11-25 09:32:00,195 - INFO - Chain [1] done processing
+2024-11-25 09:32:00,620 - INFO - {'mae': 5399.5405266850385, 'mape': 27.01602297067828, 'rmse': 6666.7641089569715, 'r2': 0.6874339420789133}
+2024-11-25 09:32:00,643 - INFO - changepont_prior_scale: 0.09556819525785437, seasonality_prior_scale: 8.352325808335891, holidays_prior_scale: 9.48991344892311, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:32:05,841 - INFO - Chain [1] start processing
+2024-11-25 09:33:53,833 - INFO - Chain [1] done processing
+2024-11-25 09:33:54,282 - INFO - {'mae': 3997.854396402869, 'mape': 18.00344925007028, 'rmse': 5325.802035800341, 'r2': 0.8005281218876206}
+2024-11-25 09:33:54,303 - INFO - changepont_prior_scale: 0.08927006993391347, seasonality_prior_scale: 9.272678710774231, holidays_prior_scale: 9.117703305984985, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:33:59,506 - INFO - Chain [1] start processing
+2024-11-25 09:35:41,806 - INFO - Chain [1] done processing
+2024-11-25 09:35:42,253 - INFO - {'mae': 3994.7038906896587, 'mape': 17.992139050859006, 'rmse': 5323.296885021632, 'r2': 0.8007157329183365}
+2024-11-25 09:35:42,276 - INFO - changepont_prior_scale: 0.07224179186646112, seasonality_prior_scale: 8.497529331342323, holidays_prior_scale: 8.205604092609649, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:35:47,339 - INFO - Chain [1] start processing
+2024-11-25 09:37:24,333 - INFO - Chain [1] done processing
+2024-11-25 09:37:24,858 - INFO - {'mae': 4007.9005236632756, 'mape': 18.058747149165242, 'rmse': 5332.663249350981, 'r2': 0.8000138328706101}
+2024-11-25 09:37:24,880 - INFO - changepont_prior_scale: 0.09509396063283211, seasonality_prior_scale: 7.860773231631177, holidays_prior_scale: 9.388764694336391, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:37:29,949 - INFO - Chain [1] start processing
+2024-11-25 09:39:39,136 - INFO - Chain [1] done processing
+2024-11-25 09:39:39,577 - INFO - {'mae': 3985.678720937609, 'mape': 17.921840977890906, 'rmse': 5318.54646496857, 'r2': 0.8010712500336364}
+2024-11-25 09:39:39,599 - INFO - changepont_prior_scale: 0.0992705432681699, seasonality_prior_scale: 7.845371475722879, holidays_prior_scale: 9.941978720662675, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:39:44,763 - INFO - Chain [1] start processing
+2024-11-25 09:41:22,209 - INFO - Chain [1] done processing
+2024-11-25 09:41:22,651 - INFO - {'mae': 4306.678712080293, 'mape': 18.63414837334319, 'rmse': 5537.884365982882, 'r2': 0.7843251997515204}
+2024-11-25 09:41:22,674 - INFO - changepont_prior_scale: 0.08561886082518325, seasonality_prior_scale: 9.996607082248397, holidays_prior_scale: 6.393008118261822, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:41:27,857 - INFO - Chain [1] start processing
+2024-11-25 09:42:56,499 - INFO - Chain [1] done processing
+2024-11-25 09:42:56,940 - INFO - {'mae': 3996.689529190485, 'mape': 17.993478977024836, 'rmse': 5325.343906486446, 'r2': 0.8005624378398816}
+2024-11-25 09:42:56,960 - INFO - changepont_prior_scale: 0.09616855800314891, seasonality_prior_scale: 2.813858112741331, holidays_prior_scale: 7.078567784812262, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:43:02,172 - INFO - Chain [1] start processing
+2024-11-25 09:44:52,281 - INFO - Chain [1] done processing
+2024-11-25 09:44:52,731 - INFO - {'mae': 3979.961172975152, 'mape': 17.873894539936334, 'rmse': 5315.598985946545, 'r2': 0.8012916771184395}
+2024-11-25 09:44:52,755 - INFO - changepont_prior_scale: 0.09564636837518939, seasonality_prior_scale: 3.1211030777844604, holidays_prior_scale: 7.132606404516263, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 09:44:57,235 - INFO - Chain [1] start processing
+2024-11-25 09:46:27,976 - INFO - Chain [1] done processing
+2024-11-25 09:46:28,420 - INFO - {'mae': 9340.421119267521, 'mape': 59.54668412639032, 'rmse': 11558.368952665978, 'r2': 0.0604827792342314}
+2024-11-25 09:46:28,441 - INFO - changepont_prior_scale: 0.012001672338629213, seasonality_prior_scale: 2.211829133822429, holidays_prior_scale: 4.501024516159552, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:46:33,632 - INFO - Chain [1] start processing
+2024-11-25 09:48:01,034 - INFO - Chain [1] done processing
+2024-11-25 09:48:01,481 - INFO - {'mae': 4257.01256944015, 'mape': 18.49331543957937, 'rmse': 5500.342403742856, 'r2': 0.7872394572232059}
+2024-11-25 09:48:01,505 - INFO - changepont_prior_scale: 0.08133632341847628, seasonality_prior_scale: 2.869967149639267, holidays_prior_scale: 1.0844094177641619, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:48:06,683 - INFO - Chain [1] start processing
+2024-11-25 09:50:01,772 - INFO - Chain [1] done processing
+2024-11-25 09:50:02,232 - INFO - {'mae': 3997.2780256212127, 'mape': 17.994791768013048, 'rmse': 5325.822717915321, 'r2': 0.8005265726342683}
+2024-11-25 09:50:02,255 - INFO - changepont_prior_scale: 0.09645117715987742, seasonality_prior_scale: 5.439239832910356, holidays_prior_scale: 7.947719203279789, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:50:07,470 - INFO - Chain [1] start processing
+2024-11-25 09:51:44,817 - INFO - Chain [1] done processing
+2024-11-25 09:51:45,272 - INFO - {'mae': 3999.9137714135445, 'mape': 18.01981225377771, 'rmse': 5326.917216084719, 'r2': 0.8004445775149291}
+2024-11-25 09:51:45,297 - INFO - changepont_prior_scale: 0.09986553310055546, seasonality_prior_scale: 3.7992336723702707, holidays_prior_scale: 5.586875084654451, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:51:50,517 - INFO - Chain [1] start processing
+2024-11-25 09:53:28,900 - INFO - Chain [1] done processing
+2024-11-25 09:53:29,347 - INFO - {'mae': 3992.5642061687677, 'mape': 17.96819928871363, 'rmse': 5322.748862301737, 'r2': 0.8007567626361387}
+2024-11-25 09:53:29,369 - INFO - changepont_prior_scale: 0.0887955791922835, seasonality_prior_scale: 7.788179975298018, holidays_prior_scale: 8.499635038060203, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:53:34,449 - INFO - Chain [1] start processing
+2024-11-25 09:55:24,676 - INFO - Chain [1] done processing
+2024-11-25 09:55:25,125 - INFO - {'mae': 3990.7013057396794, 'mape': 17.955134727849927, 'rmse': 5321.599535762689, 'r2': 0.8008427974362626}
+2024-11-25 09:55:25,147 - INFO - changepont_prior_scale: 0.09534966660809416, seasonality_prior_scale: 5.6501526790226, holidays_prior_scale: 9.595361907076176, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:55:30,340 - INFO - Chain [1] start processing
+2024-11-25 09:57:16,829 - INFO - Chain [1] done processing
+2024-11-25 09:57:17,274 - INFO - {'mae': 3990.3624592030083, 'mape': 17.952900576452873, 'rmse': 5321.413799846294, 'r2': 0.8008566992715088}
+2024-11-25 09:57:17,297 - INFO - changepont_prior_scale: 0.0866888911704743, seasonality_prior_scale: 9.355518490924768, holidays_prior_scale: 3.204347929297687, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 09:57:22,483 - INFO - Chain [1] start processing
+2024-11-25 09:59:02,795 - INFO - Chain [1] done processing
+2024-11-25 09:59:03,251 - INFO - {'mae': 3988.9972960620667, 'mape': 17.936885087396675, 'rmse': 5320.998016709951, 'r2': 0.8008878177653942}
+2024-11-25 09:59:03,274 - INFO - changepont_prior_scale: 0.09106917065239352, seasonality_prior_scale: 7.38154893386212, holidays_prior_scale: 9.143838957684322, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 09:59:06,484 - INFO - Chain [1] start processing
+2024-11-25 10:00:01,978 - INFO - Chain [1] done processing
+2024-11-25 10:00:02,417 - INFO - {'mae': 5493.180587222967, 'mape': 27.595916980817265, 'rmse': 6747.443761218372, 'r2': 0.6798229602028184}
+2024-11-25 10:00:02,440 - INFO - changepont_prior_scale: 0.09633600941663165, seasonality_prior_scale: 8.802130236829955, holidays_prior_scale: 8.696724438259698, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:00:07,581 - INFO - Chain [1] start processing
+2024-11-25 10:02:12,228 - INFO - Chain [1] done processing
+2024-11-25 10:02:12,676 - INFO - {'mae': 3990.3518403852822, 'mape': 17.951461015860367, 'rmse': 5321.470938796185, 'r2': 0.8008524226260157}
+2024-11-25 10:02:12,699 - INFO - changepont_prior_scale: 0.07864481610267714, seasonality_prior_scale: 9.50491543712719, holidays_prior_scale: 6.3520868842325235, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:02:17,887 - INFO - Chain [1] start processing
+2024-11-25 10:05:40,870 - INFO - Chain [1] start processing
+2024-11-25 10:07:02,693 - INFO - Chain [1] done processing
+2024-11-25 10:07:02,952 - INFO - Model Saved in ../models/Queens_Prophet.joblib
+2024-11-25 10:07:02,952 - INFO - Forecasts Saved in ../data/Queens_Aug2024_forecasts.csv
+2024-11-25 10:14:25,518 - INFO - Tuning for Staten Island - Prophet Model
+2024-11-25 10:14:25,642 - INFO - changepont_prior_scale: 0.0078069199758399035, seasonality_prior_scale: 3.350866770590762, holidays_prior_scale: 8.822340588999502, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 10:14:28,777 - INFO - Chain [1] start processing
+2024-11-25 10:15:10,201 - INFO - Chain [1] done processing
+2024-11-25 10:15:10,636 - INFO - {'mae': 5423.840195560457, 'mape': 23.875252986791835, 'rmse': 6851.349271032557, 'r2': 0.6789123531862298}
+2024-11-25 10:15:10,643 - INFO - changepont_prior_scale: 0.0746338418527671, seasonality_prior_scale: 2.319799079122718, holidays_prior_scale: 7.092594848426225, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 10:15:15,503 - INFO - Chain [1] start processing
+2024-11-25 10:17:13,447 - INFO - Chain [1] done processing
+2024-11-25 10:17:13,896 - INFO - {'mae': 4640.350741241863, 'mape': 19.423012649828074, 'rmse': 6188.567630573596, 'r2': 0.738029936934401}
+2024-11-25 10:17:13,902 - INFO - changepont_prior_scale: 0.03820319039973113, seasonality_prior_scale: 3.0865608953340113, holidays_prior_scale: 7.138633691519638, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:17:17,522 - INFO - Chain [1] start processing
+2024-11-25 10:18:29,571 - INFO - Chain [1] done processing
+2024-11-25 10:18:30,008 - INFO - {'mae': 5230.5610461900105, 'mape': 21.985796752936988, 'rmse': 6430.377491791978, 'r2': 0.7171577266621898}
+2024-11-25 10:18:30,014 - INFO - changepont_prior_scale: 0.06303608184622835, seasonality_prior_scale: 7.155785675886675, holidays_prior_scale: 9.000052295975433, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 10:18:33,304 - INFO - Chain [1] start processing
+2024-11-25 10:19:21,960 - INFO - Chain [1] done processing
+2024-11-25 10:19:22,393 - INFO - {'mae': 5499.643145684756, 'mape': 24.24518480199093, 'rmse': 6916.484644281748, 'r2': 0.6727782100416141}
+2024-11-25 10:19:22,399 - INFO - changepont_prior_scale: 0.0035703817031463255, seasonality_prior_scale: 4.4660695080074255, holidays_prior_scale: 5.526982819947363, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 10:19:25,075 - INFO - Chain [1] start processing
+2024-11-25 10:19:36,279 - INFO - Chain [1] done processing
+2024-11-25 10:19:36,704 - INFO - {'mae': 9431.390687245297, 'mape': 65.90466258356128, 'rmse': 12599.776405725352, 'r2': -0.08591806585062489}
+2024-11-25 10:19:36,710 - INFO - changepont_prior_scale: 0.07489855363370475, seasonality_prior_scale: 3.837417192372871, holidays_prior_scale: 7.273278473888645, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: False
+2024-11-25 10:19:40,820 - INFO - Chain [1] start processing
+2024-11-25 10:20:49,708 - INFO - Chain [1] done processing
+2024-11-25 10:20:50,152 - INFO - {'mae': 9748.099180610163, 'mape': 60.16356180853687, 'rmse': 12038.862606988505, 'r2': 0.008615103936655766}
+2024-11-25 10:20:50,159 - INFO - changepont_prior_scale: 0.06347112223385917, seasonality_prior_scale: 6.681591280482326, holidays_prior_scale: 2.4595629505121392, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 10:20:54,819 - INFO - Chain [1] start processing
+2024-11-25 10:22:13,127 - INFO - Chain [1] done processing
+2024-11-25 10:22:13,577 - INFO - {'mae': 9658.450064740973, 'mape': 58.898539177954554, 'rmse': 11695.650166074172, 'r2': 0.06433556798675089}
+2024-11-25 10:22:13,583 - INFO - changepont_prior_scale: 0.01894707605131603, seasonality_prior_scale: 3.3944996587033875, holidays_prior_scale: 7.1791464272534125, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 10:22:16,864 - INFO - Chain [1] start processing
+2024-11-25 10:23:13,039 - INFO - Chain [1] done processing
+2024-11-25 10:23:13,471 - INFO - {'mae': 5461.2079015587, 'mape': 27.023542331566176, 'rmse': 6744.548181131991, 'r2': 0.6888447702357443}
+2024-11-25 10:23:13,477 - INFO - changepont_prior_scale: 0.032642969499485225, seasonality_prior_scale: 7.195441816072972, holidays_prior_scale: 9.973154004689018, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 10:23:16,773 - INFO - Chain [1] start processing
+2024-11-25 10:24:21,277 - INFO - Chain [1] done processing
+2024-11-25 10:24:21,712 - INFO - {'mae': 5448.6353883552065, 'mape': 24.02494605381545, 'rmse': 6871.300420287359, 'r2': 0.6770396140933953}
+2024-11-25 10:24:21,717 - INFO - changepont_prior_scale: 0.04370502102259555, seasonality_prior_scale: 2.313346453045265, holidays_prior_scale: 3.5975806632367933, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:24:25,345 - INFO - Chain [1] start processing
+2024-11-25 10:25:26,625 - INFO - Chain [1] done processing
+2024-11-25 10:25:27,063 - INFO - {'mae': 5249.668375737944, 'mape': 22.05793845198324, 'rmse': 6450.112383563271, 'r2': 0.7154189711835384}
+2024-11-25 10:25:27,085 - INFO - changepont_prior_scale: 0.09755055513904662, seasonality_prior_scale: 1.0189868789434509, holidays_prior_scale: 4.533540574701437, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 10:25:31,821 - INFO - Chain [1] start processing
+2024-11-25 10:27:02,307 - INFO - Chain [1] done processing
+2024-11-25 10:27:02,763 - INFO - {'mae': 9484.02133232177, 'mape': 59.695519406110456, 'rmse': 11727.373405887993, 'r2': 0.059252898475944726}
+2024-11-25 10:27:02,785 - INFO - changepont_prior_scale: 0.08264623052728648, seasonality_prior_scale: 1.3229325053002747, holidays_prior_scale: 6.630907792188815, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:27:07,983 - INFO - Chain [1] start processing
+2024-11-25 10:29:06,575 - INFO - Chain [1] done processing
+2024-11-25 10:29:07,030 - INFO - {'mae': 4046.7089180898797, 'mape': 18.019260283172464, 'rmse': 5395.603042939582, 'r2': 0.8008632735174739}
+2024-11-25 10:29:07,051 - INFO - changepont_prior_scale: 0.09590201360416464, seasonality_prior_scale: 9.477665204085824, holidays_prior_scale: 5.934009822081937, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:29:12,173 - INFO - Chain [1] start processing
+2024-11-25 10:30:53,729 - INFO - Chain [1] done processing
+2024-11-25 10:30:54,180 - INFO - {'mae': 4038.6619807046536, 'mape': 17.967998342432512, 'rmse': 5390.754306120944, 'r2': 0.8012210195269404}
+2024-11-25 10:30:54,203 - INFO - changepont_prior_scale: 0.09614078644518065, seasonality_prior_scale: 9.85569527184785, holidays_prior_scale: 5.408589190366337, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:30:59,525 - INFO - Chain [1] start processing
+2024-11-25 10:32:45,133 - INFO - Chain [1] done processing
+2024-11-25 10:32:45,590 - INFO - {'mae': 4046.5402116800215, 'mape': 18.011037334752398, 'rmse': 5395.849392884577, 'r2': 0.8008450889174789}
+2024-11-25 10:32:45,612 - INFO - changepont_prior_scale: 0.08529061046209602, seasonality_prior_scale: 9.749809206560807, holidays_prior_scale: 5.588341037646076, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:32:50,969 - INFO - Chain [1] start processing
+2024-11-25 10:34:48,160 - INFO - Chain [1] done processing
+2024-11-25 10:34:48,608 - INFO - {'mae': 4050.0647791587403, 'mape': 18.04257360190515, 'rmse': 5397.623650923567, 'r2': 0.8007140955295148}
+2024-11-25 10:34:48,630 - INFO - changepont_prior_scale: 0.08439367320918373, seasonality_prior_scale: 8.499710102281217, holidays_prior_scale: 3.7534465586190215, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:34:53,815 - INFO - Chain [1] start processing
+2024-11-25 10:36:32,371 - INFO - Chain [1] done processing
+2024-11-25 10:36:32,834 - INFO - {'mae': 4044.1737391480583, 'mape': 18.0052706898061, 'rmse': 5393.981196093314, 'r2': 0.8009829712525031}
+2024-11-25 10:36:32,861 - INFO - changepont_prior_scale: 0.057235453355326274, seasonality_prior_scale: 8.349048339641499, holidays_prior_scale: 1.8519233715268082, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:36:38,015 - INFO - Chain [1] start processing
+2024-11-25 10:38:26,821 - INFO - Chain [1] done processing
+2024-11-25 10:38:27,275 - INFO - {'mae': 4065.3029792443854, 'mape': 18.158737531030095, 'rmse': 5406.475704000128, 'r2': 0.8000599054402637}
+2024-11-25 10:38:27,295 - INFO - changepont_prior_scale: 0.09997612217198398, seasonality_prior_scale: 8.724746652743459, holidays_prior_scale: 3.4167054021522807, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:38:32,627 - INFO - Chain [1] start processing
+2024-11-25 10:40:04,343 - INFO - Chain [1] done processing
+2024-11-25 10:40:04,803 - INFO - {'mae': 4038.0622988099403, 'mape': 17.963157449550966, 'rmse': 5390.365133822184, 'r2': 0.8012497192138494}
+2024-11-25 10:40:04,827 - INFO - changepont_prior_scale: 0.09984153400576742, seasonality_prior_scale: 5.672867803384588, holidays_prior_scale: 3.4879415459534764, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 10:40:09,409 - INFO - Chain [1] start processing
+2024-11-25 10:41:59,408 - INFO - Chain [1] done processing
+2024-11-25 10:41:59,853 - INFO - {'mae': 9486.931000977582, 'mape': 59.680590850111635, 'rmse': 11726.287703334365, 'r2': 0.05942707631041377}
+2024-11-25 10:41:59,875 - INFO - changepont_prior_scale: 0.07326343125571239, seasonality_prior_scale: 8.446058943539285, holidays_prior_scale: 2.4058971633202937, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:42:05,213 - INFO - Chain [1] start processing
+2024-11-25 10:43:57,335 - INFO - Chain [1] done processing
+2024-11-25 10:43:57,783 - INFO - {'mae': 4045.2784951611243, 'mape': 18.012820820553728, 'rmse': 5394.551565888615, 'r2': 0.8009408801515603}
+2024-11-25 10:43:57,805 - INFO - changepont_prior_scale: 0.08981865620550125, seasonality_prior_scale: 9.12939299434704, holidays_prior_scale: 1.2636333089000056, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:44:02,983 - INFO - Chain [1] start processing
+2024-11-25 10:45:43,513 - INFO - Chain [1] done processing
+2024-11-25 10:45:43,962 - INFO - {'mae': 4044.130084568898, 'mape': 17.988246498401654, 'rmse': 5394.9306054932085, 'r2': 0.8009129060225195}
+2024-11-25 10:45:43,984 - INFO - changepont_prior_scale: 0.08839215486450634, seasonality_prior_scale: 8.524243719409569, holidays_prior_scale: 3.8664162641185635, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:45:49,294 - INFO - Chain [1] start processing
+2024-11-25 10:47:37,038 - INFO - Chain [1] done processing
+2024-11-25 10:47:37,489 - INFO - {'mae': 4037.836357215069, 'mape': 17.954539660318634, 'rmse': 5390.606448830108, 'r2': 0.8012319235736814}
+2024-11-25 10:47:37,512 - INFO - changepont_prior_scale: 0.09041704764363336, seasonality_prior_scale: 7.957996258710379, holidays_prior_scale: 4.775690865371024, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:47:42,676 - INFO - Chain [1] start processing
+2024-11-25 10:49:34,820 - INFO - Chain [1] done processing
+2024-11-25 10:49:35,274 - INFO - {'mae': 4045.139128406615, 'mape': 18.004999079174297, 'rmse': 5394.8770459385605, 'r2': 0.8009168589790779}
+2024-11-25 10:49:35,297 - INFO - changepont_prior_scale: 0.09961417843951155, seasonality_prior_scale: 6.007677528955768, holidays_prior_scale: 4.1958198990163496, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:49:40,439 - INFO - Chain [1] start processing
+2024-11-25 10:51:14,817 - INFO - Chain [1] done processing
+2024-11-25 10:51:15,272 - INFO - {'mae': 4029.0187068603714, 'mape': 17.88864683990801, 'rmse': 5385.737983682149, 'r2': 0.8015907917196673}
+2024-11-25 10:51:15,293 - INFO - changepont_prior_scale: 0.0768304848657138, seasonality_prior_scale: 5.696758052169193, holidays_prior_scale: 2.831598424415317, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:51:20,584 - INFO - Chain [1] start processing
+2024-11-25 10:53:01,789 - INFO - Chain [1] done processing
+2024-11-25 10:53:02,251 - INFO - {'mae': 4054.0248264536876, 'mape': 18.06243287948792, 'rmse': 5400.460656269895, 'r2': 0.8005045500723461}
+2024-11-25 10:53:02,272 - INFO - changepont_prior_scale: 0.09026244384885816, seasonality_prior_scale: 6.598449504424179, holidays_prior_scale: 4.590737602580984, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:53:07,627 - INFO - Chain [1] start processing
+2024-11-25 10:55:03,721 - INFO - Chain [1] done processing
+2024-11-25 10:55:04,183 - INFO - {'mae': 4044.0692714765364, 'mape': 17.9930856017955, 'rmse': 5394.476669039564, 'r2': 0.8009464075052887}
+2024-11-25 10:55:04,205 - INFO - changepont_prior_scale: 0.08149794986649463, seasonality_prior_scale: 4.571813590673687, holidays_prior_scale: 3.0512271199102243, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:55:09,410 - INFO - Chain [1] start processing
+2024-11-25 10:57:05,510 - INFO - Chain [1] done processing
+2024-11-25 10:57:05,967 - INFO - {'mae': 4061.1085556285952, 'mape': 18.125577005769316, 'rmse': 5404.039436552385, 'r2': 0.8002400589525607}
+2024-11-25 10:57:05,987 - INFO - changepont_prior_scale: 0.06656631365846827, seasonality_prior_scale: 7.883407492001979, holidays_prior_scale: 4.118109704227037, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 10:57:10,538 - INFO - Chain [1] start processing
+2024-11-25 10:58:42,264 - INFO - Chain [1] done processing
+2024-11-25 10:58:42,704 - INFO - {'mae': 9452.716590358385, 'mape': 59.85786297718717, 'rmse': 11741.295051930696, 'r2': 0.05701803797825156}
+2024-11-25 10:58:42,726 - INFO - changepont_prior_scale: 0.054569904966074674, seasonality_prior_scale: 9.064711824570425, holidays_prior_scale: 1.1492958443371415, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 10:58:48,023 - INFO - Chain [1] start processing
+2024-11-25 11:00:39,441 - INFO - Chain [1] done processing
+2024-11-25 11:00:39,893 - INFO - {'mae': 4076.734594564248, 'mape': 18.24100297216168, 'rmse': 5413.228569274933, 'r2': 0.7995601300605455}
+2024-11-25 11:00:39,915 - INFO - changepont_prior_scale: 0.016310271690387602, seasonality_prior_scale: 6.2785150231413045, holidays_prior_scale: 4.146371917961847, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:00:45,250 - INFO - Chain [1] start processing
+2024-11-25 11:02:09,316 - INFO - Chain [1] done processing
+2024-11-25 11:02:09,769 - INFO - {'mae': 4216.2324462548, 'mape': 19.14781923010746, 'rmse': 5507.615457404111, 'r2': 0.7925093161241676}
+2024-11-25 11:02:09,790 - INFO - changepont_prior_scale: 0.09167221509325614, seasonality_prior_scale: 7.483225278622668, holidays_prior_scale: 2.0397377077259073, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:02:14,957 - INFO - Chain [1] start processing
+2024-11-25 11:03:36,492 - INFO - Chain [1] done processing
+2024-11-25 11:03:36,943 - INFO - {'mae': 4026.074066578565, 'mape': 17.88103734292139, 'rmse': 5383.323132582735, 'r2': 0.8017686768231054}
+2024-11-25 11:03:36,968 - INFO - changepont_prior_scale: 0.0916147235574489, seasonality_prior_scale: 7.533585149993211, holidays_prior_scale: 1.8244143840426785, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:03:42,300 - INFO - Chain [1] start processing
+2024-11-25 11:05:23,413 - INFO - Chain [1] done processing
+2024-11-25 11:05:23,862 - INFO - {'mae': 4047.804041439884, 'mape': 18.027515826267727, 'rmse': 5396.224987776775, 'r2': 0.8008173623575585}
+2024-11-25 11:05:23,884 - INFO - changepont_prior_scale: 0.09963790068335167, seasonality_prior_scale: 6.166628313416957, holidays_prior_scale: 3.0501887678416124, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:05:29,022 - INFO - Chain [1] start processing
+2024-11-25 11:07:01,971 - INFO - Chain [1] done processing
+2024-11-25 11:07:02,433 - INFO - {'mae': 4020.8600220720095, 'mape': 17.83687292140635, 'rmse': 5380.71547163686, 'r2': 0.8019606752857368}
+2024-11-25 11:07:02,455 - INFO - changepont_prior_scale: 0.09470506582087783, seasonality_prior_scale: 4.971991882566348, holidays_prior_scale: 3.1019431843862475, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:07:07,797 - INFO - Chain [1] start processing
+2024-11-25 11:08:54,234 - INFO - Chain [1] done processing
+2024-11-25 11:08:54,686 - INFO - {'mae': 4042.5462334766216, 'mape': 17.996945881008482, 'rmse': 5392.791322495021, 'r2': 0.8010707650288453}
+2024-11-25 11:08:54,707 - INFO - changepont_prior_scale: 0.09813316084445005, seasonality_prior_scale: 6.16723067058528, holidays_prior_scale: 1.8231989419243166, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 11:08:59,420 - INFO - Chain [1] start processing
+2024-11-25 11:10:18,998 - INFO - Chain [1] done processing
+2024-11-25 11:10:19,448 - INFO - {'mae': 4605.919908455955, 'mape': 20.688521121804726, 'rmse': 6052.726790881373, 'r2': 0.7494043522798511}
+2024-11-25 11:10:19,469 - INFO - changepont_prior_scale: 0.07904537950915747, seasonality_prior_scale: 5.235768922806669, holidays_prior_scale: 2.3947026018903754, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:10:23,056 - INFO - Chain [1] start processing
+2024-11-25 11:11:38,604 - INFO - Chain [1] done processing
+2024-11-25 11:11:39,041 - INFO - {'mae': 5160.41058985211, 'mape': 24.487172155389313, 'rmse': 6312.22707211245, 'r2': 0.7274560104750674}
+2024-11-25 11:11:39,066 - INFO - changepont_prior_scale: 0.07103857713506763, seasonality_prior_scale: 7.14909841562481, holidays_prior_scale: 3.0514900410441337, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 11:11:43,978 - INFO - Chain [1] start processing
+2024-11-25 11:13:40,699 - INFO - Chain [1] done processing
+2024-11-25 11:13:41,152 - INFO - {'mae': 4629.6767298456125, 'mape': 20.978200052322446, 'rmse': 6068.252705927352, 'r2': 0.7481170921920802}
+2024-11-25 11:13:41,173 - INFO - changepont_prior_scale: 0.09982523490416066, seasonality_prior_scale: 6.162173934059949, holidays_prior_scale: 2.133092104779296, seasonality_mode: multiplicative, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 11:13:44,136 - INFO - Chain [1] start processing
+2024-11-25 11:14:43,677 - INFO - Chain [1] done processing
+2024-11-25 11:14:44,104 - INFO - {'mae': 9217.422139267628, 'mape': 62.68882484334192, 'rmse': 12137.410832424412, 'r2': -0.007681966745987312}
+2024-11-25 11:14:44,127 - INFO - changepont_prior_scale: 0.08430717352308151, seasonality_prior_scale: 7.093190097459268, holidays_prior_scale: 4.800049669955461, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:14:49,451 - INFO - Chain [1] start processing
+2024-11-25 11:16:25,984 - INFO - Chain [1] done processing
+2024-11-25 11:16:26,435 - INFO - {'mae': 4053.3766229821504, 'mape': 18.06008984463883, 'rmse': 5399.954367423737, 'r2': 0.8005419533951893}
+2024-11-25 11:16:26,458 - INFO - changepont_prior_scale: 0.031430319461250814, seasonality_prior_scale: 7.640058455096156, holidays_prior_scale: 2.7564771358095514, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 11:16:31,144 - INFO - Chain [1] start processing
+2024-11-25 11:17:51,754 - INFO - Chain [1] done processing
+2024-11-25 11:17:52,201 - INFO - {'mae': 4630.897860825677, 'mape': 19.362784325127993, 'rmse': 6179.537729966429, 'r2': 0.7387938739048977}
+2024-11-25 11:17:52,225 - INFO - changepont_prior_scale: 0.06799168693804722, seasonality_prior_scale: 4.143209881044912, holidays_prior_scale: 3.3909190838827494, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 11:17:55,334 - INFO - Chain [1] start processing
+2024-11-25 11:18:57,413 - INFO - Chain [1] done processing
+2024-11-25 11:18:57,848 - INFO - {'mae': 9186.010516746443, 'mape': 62.54982628957627, 'rmse': 12098.691491840864, 'r2': -0.0012630445500263487}
+2024-11-25 11:18:57,871 - INFO - changepont_prior_scale: 0.08896863470028275, seasonality_prior_scale: 8.563055075304481, holidays_prior_scale: 4.114328075116926, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:19:03,210 - INFO - Chain [1] start processing
+2024-11-25 11:20:56,264 - INFO - Chain [1] done processing
+2024-11-25 11:20:56,716 - INFO - {'mae': 4043.936459983861, 'mape': 17.999509546722756, 'rmse': 5393.9976894111, 'r2': 0.8009817541714643}
+2024-11-25 11:20:56,738 - INFO - changepont_prior_scale: 0.0933017580490169, seasonality_prior_scale: 6.7259041975570835, holidays_prior_scale: 3.808906740535412, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:21:01,914 - INFO - Chain [1] start processing
+2024-11-25 11:23:00,766 - INFO - Chain [1] done processing
+2024-11-25 11:23:01,219 - INFO - {'mae': 4042.510975277166, 'mape': 17.987378502694597, 'rmse': 5393.267038500094, 'r2': 0.8010356670659261}
+2024-11-25 11:23:01,243 - INFO - changepont_prior_scale: 0.08751625950080308, seasonality_prior_scale: 8.946625253575078, holidays_prior_scale: 3.365021413627325, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:23:06,610 - INFO - Chain [1] start processing
+2024-11-25 11:24:56,508 - INFO - Chain [1] done processing
+2024-11-25 11:24:56,960 - INFO - {'mae': 4039.699750436887, 'mape': 17.968903056001885, 'rmse': 5391.614115386875, 'r2': 0.8011576051587258}
+2024-11-25 11:24:56,983 - INFO - changepont_prior_scale: 0.09354951900860037, seasonality_prior_scale: 7.557293140536805, holidays_prior_scale: 2.5423946604997405, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:25:02,136 - INFO - Chain [1] start processing
+2024-11-25 11:26:43,545 - INFO - Chain [1] done processing
+2024-11-25 11:26:43,995 - INFO - {'mae': 4354.049470799497, 'mape': 18.575985951965322, 'rmse': 5606.000646557629, 'r2': 0.7850300928592493}
+2024-11-25 11:26:44,019 - INFO - changepont_prior_scale: 0.09952684434519549, seasonality_prior_scale: 8.146675150831756, holidays_prior_scale: 8.328816354403587, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 11:26:48,712 - INFO - Chain [1] start processing
+2024-11-25 11:28:13,963 - INFO - Chain [1] done processing
+2024-11-25 11:28:14,412 - INFO - {'mae': 4600.035775399119, 'mape': 20.60270165645215, 'rmse': 6049.589793829512, 'r2': 0.7496640415476318}
+2024-11-25 11:28:14,434 - INFO - changepont_prior_scale: 0.08069932512486806, seasonality_prior_scale: 8.84595789126187, holidays_prior_scale: 5.038362515656043, seasonality_mode: additive, 
+        yearly_seasonality: False, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:28:18,178 - INFO - Chain [1] start processing
+2024-11-25 11:29:23,391 - INFO - Chain [1] done processing
+2024-11-25 11:29:23,823 - INFO - {'mae': 5164.137580654707, 'mape': 24.507457880012325, 'rmse': 6315.7360344252875, 'r2': 0.7271529122521798}
+2024-11-25 11:29:23,846 - INFO - changepont_prior_scale: 0.08748111262973848, seasonality_prior_scale: 6.929615275663391, holidays_prior_scale: 1.5688099838129155, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: True
+2024-11-25 11:29:28,964 - INFO - Chain [1] start processing
+2024-11-25 11:31:06,285 - INFO - Chain [1] done processing
+2024-11-25 11:31:06,738 - INFO - {'mae': 4032.8266970624936, 'mape': 17.917505812415154, 'rmse': 5387.848108972428, 'r2': 0.8014352883118384}
+2024-11-25 11:31:06,760 - INFO - changepont_prior_scale: 0.09435040880021403, seasonality_prior_scale: 6.831945290551426, holidays_prior_scale: 1.564521491534022, seasonality_mode: multiplicative, 
+        yearly_seasonality: True, weekly_seasonality: True, daily_seasonality: False
+2024-11-25 11:31:11,484 - INFO - Chain [1] start processing
+2024-11-25 11:32:29,528 - INFO - Chain [1] done processing
+2024-11-25 11:32:29,973 - INFO - {'mae': 9672.693158337162, 'mape': 58.83450231092399, 'rmse': 11693.39367363707, 'r2': 0.06469657673983398}
+2024-11-25 11:32:29,996 - INFO - changepont_prior_scale: 0.04821806555602237, seasonality_prior_scale: 5.419688698392202, holidays_prior_scale: 1.4543288371166831, seasonality_mode: additive, 
+        yearly_seasonality: True, weekly_seasonality: False, daily_seasonality: True
+2024-11-25 11:32:34,698 - INFO - Chain [1] start processing
+2024-11-25 11:34:29,211 - INFO - Chain [1] done processing
+2024-11-25 11:34:29,658 - INFO - {'mae': 4646.801802054729, 'mape': 21.20943160747774, 'rmse': 6078.5267200732615, 'r2': 0.7472634562623226}
+2024-11-25 11:34:29,663 - INFO - 
+Hyperparameter Tuning Done for Staten Island
+2024-11-25 11:34:29,663 - INFO - Best Parameters: {'changepoint_prior_scale': 0.09963790068335167, 'seasonality_prior_scale': 6.166628313416957, 'holidays_prior_scale': 3.0501887678416124, 'seasonality_mode': 'additive', 'yearly_seasonality': True, 'weekly_seasonality': True, 'daily_seasonality': True}
+2024-11-25 11:34:34,017 - INFO - Chain [1] start processing
+2024-11-25 11:35:49,883 - INFO - Chain [1] done processing
+2024-11-25 11:35:50,132 - INFO - Model Saved in ../models/Staten Island_Prophet.joblib
+2024-11-25 11:35:50,132 - INFO - Forecasts Saved in ../data/Staten Island_Aug2024_forecasts.csv
