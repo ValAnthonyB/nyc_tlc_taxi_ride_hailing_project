@@ -1,0 +1,110 @@
+2024-11-14 23:31:22,471 - INFO - Extracting HTML.
+2024-11-14 23:31:23,634 - INFO - Extracting links from the website.
+2024-11-14 23:31:23,665 - INFO - Extracting 2024 data.
+2024-11-14 23:31:23,665 - INFO - Creating the monthly_aggregates and concatenated directories to store the aggregated and concatenated data, respecitvely.
+2024-11-14 23:31:23,665 - INFO - Processing January 2024 data.
+2024-11-14 23:31:23,665 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet.
+2024-11-14 23:31:31,705 - INFO - Yellow Taxi Trip Records done.
+2024-11-14 23:31:31,705 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:32:31,708 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-01.parquet.
+2024-11-14 23:32:34,934 - INFO - Green Taxi Trip Records done.
+2024-11-14 23:32:34,934 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:33:34,938 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-01.parquet.
+2024-11-14 23:33:39,934 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-14 23:33:39,934 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:34:39,935 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-01.parquet.
+2024-11-14 23:35:52,327 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-14 23:35:52,327 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:36:52,336 - INFO - Processing February 2024 data.
+2024-11-14 23:36:52,337 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-02.parquet.
+2024-11-14 23:37:00,156 - INFO - Yellow Taxi Trip Records done.
+2024-11-14 23:37:00,156 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:38:00,168 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-02.parquet.
+2024-11-14 23:38:04,415 - INFO - Green Taxi Trip Records done.
+2024-11-14 23:38:04,415 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:39:04,425 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-02.parquet.
+2024-11-14 23:39:08,463 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-14 23:39:08,463 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:40:08,477 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-02.parquet.
+2024-11-14 23:41:05,729 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-14 23:41:05,745 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:42:05,746 - INFO - Processing March 2024 data.
+2024-11-14 23:42:05,747 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-03.parquet.
+2024-11-14 23:42:15,060 - INFO - Yellow Taxi Trip Records done.
+2024-11-14 23:42:15,060 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:43:15,072 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-03.parquet.
+2024-11-14 23:43:18,238 - INFO - Green Taxi Trip Records done.
+2024-11-14 23:43:18,238 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:44:18,246 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-03.parquet.
+2024-11-14 23:44:22,863 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-14 23:44:22,863 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:45:22,867 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-03.parquet.
+2024-11-14 23:46:11,219 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-14 23:46:11,219 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:47:11,223 - INFO - Processing April 2024 data.
+2024-11-14 23:47:11,225 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-04.parquet.
+2024-11-14 23:47:24,007 - INFO - Yellow Taxi Trip Records done.
+2024-11-14 23:47:24,007 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:48:24,017 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-04.parquet.
+2024-11-14 23:48:28,975 - INFO - Green Taxi Trip Records done.
+2024-11-14 23:48:28,975 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:49:28,981 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-04.parquet.
+2024-11-14 23:49:35,264 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-14 23:49:35,264 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:50:35,265 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-04.parquet.
+2024-11-14 23:51:36,881 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-14 23:51:36,881 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:52:36,893 - INFO - Processing May 2024 data.
+2024-11-14 23:52:36,893 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-05.parquet.
+2024-11-14 23:52:48,528 - INFO - Yellow Taxi Trip Records done.
+2024-11-14 23:52:48,528 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:53:48,541 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-05.parquet.
+2024-11-14 23:53:53,958 - INFO - Green Taxi Trip Records done.
+2024-11-14 23:53:53,958 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:54:53,960 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-05.parquet.
+2024-11-14 23:55:00,107 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-14 23:55:00,107 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:56:00,117 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-05.parquet.
+2024-11-14 23:57:18,570 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-14 23:57:18,570 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:58:18,587 - INFO - Processing June 2024 data.
+2024-11-14 23:58:18,589 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-06.parquet.
+2024-11-14 23:58:28,301 - INFO - Yellow Taxi Trip Records done.
+2024-11-14 23:58:28,301 - INFO - Waiting 60s before processing the next ride type
+2024-11-14 23:59:28,302 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-06.parquet.
+2024-11-14 23:59:33,339 - INFO - Green Taxi Trip Records done.
+2024-11-14 23:59:33,339 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:00:33,342 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-06.parquet.
+2024-11-15 00:00:40,210 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-15 00:00:40,210 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:01:40,214 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-06.parquet.
+2024-11-15 00:02:43,942 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-15 00:02:43,942 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:03:43,945 - INFO - Processing July 2024 data.
+2024-11-15 00:03:43,945 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-07.parquet.
+2024-11-15 00:03:55,278 - INFO - Yellow Taxi Trip Records done.
+2024-11-15 00:03:55,278 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:04:55,284 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-07.parquet.
+2024-11-15 00:05:00,569 - INFO - Green Taxi Trip Records done.
+2024-11-15 00:05:00,569 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:06:00,572 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-07.parquet.
+2024-11-15 00:06:08,062 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-15 00:06:08,062 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:07:08,065 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-07.parquet.
+2024-11-15 00:08:07,621 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-15 00:08:07,625 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:09:07,626 - INFO - Processing August 2024 data.
+2024-11-15 00:09:07,627 - INFO - Aggregating Yellow Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-08.parquet.
+2024-11-15 00:09:15,895 - INFO - Yellow Taxi Trip Records done.
+2024-11-15 00:09:15,895 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:10:15,902 - INFO - Aggregating Green Taxi Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-08.parquet.
+2024-11-15 00:10:20,812 - INFO - Green Taxi Trip Records done.
+2024-11-15 00:10:20,812 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:11:20,813 - INFO - Aggregating For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-08.parquet.
+2024-11-15 00:11:26,718 - INFO - For-Hire Vehicle Trip Records done.
+2024-11-15 00:11:26,718 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:12:26,725 - INFO - Aggregating High Volume For-Hire Vehicle Trip Records. Data from https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-08.parquet.
+2024-11-15 00:13:18,524 - INFO - High Volume For-Hire Vehicle Trip Records done.
+2024-11-15 00:13:18,524 - INFO - Waiting 60s before processing the next ride type
+2024-11-15 00:14:18,525 - INFO - Concatenating all 2024 files.
+2024-11-15 00:15:41,942 - INFO - DONE
